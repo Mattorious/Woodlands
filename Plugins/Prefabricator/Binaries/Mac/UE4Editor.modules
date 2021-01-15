@@ -1,0 +1,11 @@
+{
+	"BuildId": "13144385",
+	"Modules": 
+	{
+		"ConstructionSystemEditor": "UE4Editor-ConstructionSystemEditor.dylib",
+		"ConstructionSystemRuntime": "UE4Editor-ConstructionSystemRuntime.dylib",
+		"PrefabricatorEditor": "UE4Editor-PrefabricatorEditor.dylib",
+		"PrefabricatorEditorPostInit": "UE4Editor-PrefabricatorEditorPostInit.dylib",
+		"PrefabricatorRuntime": "UE4Editor-PrefabricatorRuntime.dylib"
+	}
+}

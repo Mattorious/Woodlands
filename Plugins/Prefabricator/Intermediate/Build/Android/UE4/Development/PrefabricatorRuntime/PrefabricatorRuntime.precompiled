@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.PrefabricatorRuntime.cppa7.o",
+		"Module.PrefabricatorRuntime.cppa8.o",
+		"Module.PrefabricatorRuntime.gen.cppa7.o",
+		"Module.PrefabricatorRuntime.gen.cppa8.o"
+	]
+}

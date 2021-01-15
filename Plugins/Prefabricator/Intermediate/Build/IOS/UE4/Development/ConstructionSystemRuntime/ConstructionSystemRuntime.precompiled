@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.ConstructionSystemRuntime.cpp.o",
+		"Module.ConstructionSystemRuntime.gen.cpp.o"
+	]
+}
