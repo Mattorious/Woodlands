@@ -2,4 +2,4 @@ DerivedDataCache/*
 Saved/*
 Intermediate/*
 WindowsNoEditor/*
-
+*.pdb
