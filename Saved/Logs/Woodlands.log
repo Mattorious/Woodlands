@@ -4550,3 +4550,1017 @@ Script Stack (0 frames):
 [2021.01.27-04.48.37:251][675]LogContentValidation: Display: Validating World /Game/Maps/RougeLike.RougeLike
 [2021.01.27-04.48.37:251][675]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/RougeLike_BuiltData.RougeLike_BuiltData
 [2021.01.27-04.51.08:977][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile0Foliage5)
+[2021.01.27-04.57.41:533][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.01.27-04.57.42:962][477]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.27-04.57.43:153][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.01.27-04.57.43:176][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.01.27-04.57.43:188][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.01.27-04.58.14:128][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RougeLike" FILE="E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.27-04.58.14:142][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.01.27-04.58.14:401][483]LogSavePackage: Moving 'E:/Storm's Created Games/Woodlands/Saved/RougeLike84EFFE904A367A3AC356A19D11D56037.tmp' to 'E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike.umap'
+[2021.01.27-04.58.14:468][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RougeLike_BuiltData" FILE="E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike_BuiltData.uasset" SILENT=true
+[2021.01.27-04.58.14:519][483]LogSavePackage: Moving 'E:/Storm's Created Games/Woodlands/Saved/RougeLike_BuiltData80B4554C4694247EAEC14294A3602C5D.tmp' to 'E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike_BuiltData.uasset'
+[2021.01.27-04.58.14:535][483]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.27-04.58.14:535][483]LogContentValidation: Display: Validating World /Game/Maps/RougeLike.RougeLike
+[2021.01.27-04.58.14:535][483]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/RougeLike_BuiltData.RougeLike_BuiltData
+[2021.01.27-04.58.16:612][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.01.27-04.58.31:382][311]LogEditorViewport: Clicking on Actor (LMB): VoxelWorld (VoxelWorld5)
+[2021.01.27-04.58.31:822][335]LogEditorViewport: Clicking on Actor (LMB): VoxelWorld (VoxelWorld0)
+[2021.01.27-04.58.38:304][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile0Foliage5)
+[2021.01.27-04.58.38:985][760]LogEditorViewport: Clicking on Actor (LMB): VoxelWorld (VoxelWorld1)
+[2021.01.27-04.58.47:376][244]LogEditorViewport: Clicking on Actor (LMB): VoxelWorld (VoxelWorld4)
+[2021.01.27-04.59.03:560][212]LogEditorViewport: Clicking on Actor (LMB): VoxelWorld (VoxelWorld4)
+[2021.01.27-05.00.39:837][739]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VoxelPlaceableItemManager /Engine/Transient.VoxelPlaceableItemManager_3) from referencer (VoxelWorld /Game/Maps/RougeLike.RougeLike:PersistentLevel.VoxelWorld4_0).  Import failed...
+[2021.01.27-05.00.39:837][739]LogProperty: Warning: ObjectProperty /Script/Voxel.VoxelRuntimeActor:PlaceableItemManager: unresolved reference to 'VoxelPlaceableItemManager'"/Engine/Transient.VoxelPlaceableItemManager_3"''
+[2021.01.27-05.00.39:838][739]LogVoxel: Loading world
+[2021.01.27-05.00.39:839][739]LogVoxel: Decompressed 0.713058 MB in 0.000865s (824.535700 MB/s). Compressed Size: 0.033580 MB (4.709267%). Decompression: 0.000857s (99.063367%). Num Chunks: 1.
+[2021.01.27-05.00.40:297][742]LogVoxel: VoxelWorld6 took 0.458955s to generate
+[2021.01.27-05.00.47:553][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkySphere)
+[2021.01.27-05.00.49:492][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile0Foliage5)
+[2021.01.27-05.00.53:439][515]Cmd: DELETE
+[2021.01.27-05.00.53:439][515]Cmd: ACTOR DELETE
+[2021.01.27-05.00.53:453][515]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.00.53:465][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.01.27-05.00.53:471][515]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.01.27-05.00.54:068][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WaterPlane5)
+[2021.01.27-05.00.54:518][576]Cmd: DELETE
+[2021.01.27-05.00.54:518][576]Cmd: ACTOR DELETE
+[2021.01.27-05.00.54:530][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.00.54:541][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.01.27-05.00.54:544][576]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.01.27-05.00.55:468][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (log5)
+[2021.01.27-05.00.57:938][778]Cmd: DELETE
+[2021.01.27-05.00.57:938][778]Cmd: ACTOR DELETE
+[2021.01.27-05.00.57:950][778]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.00.57:961][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.27-05.00.57:964][778]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.01.27-05.00.58:821][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (treasure5)
+[2021.01.27-05.00.59:220][852]Cmd: DELETE
+[2021.01.27-05.00.59:220][852]Cmd: ACTOR DELETE
+[2021.01.27-05.00.59:234][852]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.00.59:246][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.27-05.00.59:249][852]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.01.27-05.01.06:171][267]LogEditorViewport: Clicking on Actor (LMB): VoxelWorld (VoxelWorld5)
+[2021.01.27-05.01.17:077][904]LogMaterial: Display: Missing cached shader map for material WOOD-TREE_001, compiling. 
+[2021.01.27-05.01.17:085][904]LogStaticMesh: Building static mesh tree-trunk...
+[2021.01.27-05.01.17:096][904]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.01.27-05.01.17:096][904]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.01.27-05.01.17:097][904]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.01.27-05.01.17:097][904]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.27-05.01.17:112][904]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Foilage/Trees/Meshes/tree-trunk.tree-trunk
+[2021.01.27-05.01.17:248][908]LogMeshUtilities: Finished distance field build in 0.1s - 36x11x10 distance field, 156 triangles, Range [-0.1, 0.5], tree-trunk
+[2021.01.27-05.01.17:264][908]LogActorFactory: Actor Factory created tree-trunk
+[2021.01.27-05.01.18:619][986]LogActorFactory: Actor Factory created tree-trunk
+[2021.01.27-05.01.30:716][699]Cmd: TRANSACTION UNDO
+[2021.01.27-05.01.30:716][699]LogEditorTransaction: Undo Scale Actors
+[2021.01.27-05.01.48:465][742]LogStaticMesh: Building static mesh log04...
+[2021.01.27-05.01.48:485][742]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Foilage/Trees/Meshes/log04.log04
+[2021.01.27-05.01.48:536][742]LogMeshUtilities: Discarded distance field for log04 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.01.48:536][742]LogMeshUtilities: Finished distance field build in 0.0s - 10x12x8 distance field, 47 triangles, Range [-0.3, 1.0], log04
+[2021.01.27-05.01.48:558][743]LogActorFactory: Actor Factory created log04
+[2021.01.27-05.01.49:405][792]LogActorFactory: Actor Factory created log04
+[2021.01.27-05.01.58:775][340]LogStaticMesh: Building static mesh log01...
+[2021.01.27-05.01.58:794][340]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Foilage/Trees/Meshes/log01.log01
+[2021.01.27-05.01.58:880][341]LogMeshUtilities: Finished distance field build in 0.1s - 15x14x11 distance field, 98 triangles, Range [-0.2, 1.0], log01
+[2021.01.27-05.01.58:892][342]LogActorFactory: Actor Factory created log01
+[2021.01.27-05.01.59:491][376]LogActorFactory: Actor Factory created log01
+[2021.01.27-05.02.36:080][562]EditorErrors: New page: Actor attachment
+[2021.01.27-05.02.40:445][823]LogEditorViewport: Clicking on Actor (LMB): VoxelWorld (VoxelWorld5)
+[2021.01.27-05.02.42:167][918]Cmd: TRANSACTION UNDO
+[2021.01.27-05.02.42:167][918]LogEditorTransaction: Undo Move Actors
+[2021.01.27-05.02.47:218][193]Cmd: TRANSACTION UNDO
+[2021.01.27-05.02.47:218][193]LogEditorTransaction: Undo Move Actors
+[2021.01.27-05.02.47:864][222]Cmd: TRANSACTION UNDO
+[2021.01.27-05.02.47:865][222]LogEditorTransaction: Undo Move Actors
+[2021.01.27-05.02.51:269][414]LogEditorViewport: Clicking on Actor (LMB): VoxelWorld (VoxelWorld4)
+[2021.01.27-05.02.52:865][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (enemySpawn5)
+[2021.01.27-05.02.53:984][572]Cmd: DELETE
+[2021.01.27-05.02.53:984][572]Cmd: ACTOR DELETE
+[2021.01.27-05.02.53:997][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.02.54:008][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.01.27-05.02.54:013][572]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.01.27-05.03.02:723][ 87]LogEditorViewport: Clicking on Actor (LMB): Actor (Geometry5)
+[2021.01.27-05.03.09:662][489]LogVoxel: Forcing GC
+[2021.01.27-05.03.09:709][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.01.27-05.03.39:646][186]LogVoxel: Forcing GC
+[2021.01.27-05.03.39:673][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.01.27-05.03.55:640][108]Cmd: TRANSACTION UNDO
+[2021.01.27-05.03.55:640][108]LogEditorTransaction: Undo Smooth
+[2021.01.27-05.04.09:659][901]LogVoxel: Forcing GC
+[2021.01.27-05.04.09:688][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.01.27-05.04.18:363][409]Cmd: TRANSACTION UNDO
+[2021.01.27-05.04.18:363][409]LogEditorTransaction: Undo Surface
+[2021.01.27-05.04.39:330][618]Cmd: DELETE
+[2021.01.27-05.04.39:330][618]Cmd: ACTOR DELETE
+[2021.01.27-05.04.39:343][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.04.39:344][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.04.39:344][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.04.39:345][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.04.39:345][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.04.39:345][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.04.39:355][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.01.27-05.04.39:359][618]LogEditorActor: Deleted 6 Actors (0.029 secs)
+[2021.01.27-05.04.39:670][637]LogVoxel: Forcing GC
+[2021.01.27-05.04.39:697][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.27-05.05.09:685][402]LogVoxel: Forcing GC
+[2021.01.27-05.05.09:712][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.01.27-05.05.11:303][498]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.11:303][498]LogEditorTransaction: Undo Surface
+[2021.01.27-05.05.12:716][572]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.12:716][572]LogEditorTransaction: Undo Surface
+[2021.01.27-05.05.13:539][621]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.13:539][621]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.27-05.05.14:615][684]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.14:615][684]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.27-05.05.16:119][773]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.16:119][773]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.27-05.05.16:643][803]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.16:643][803]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.27-05.05.17:043][827]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.17:043][827]LogEditorTransaction: Undo Surface
+[2021.01.27-05.05.17:360][846]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.17:360][846]LogEditorTransaction: Undo Surface
+[2021.01.27-05.05.18:027][886]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.18:027][886]LogEditorTransaction: Undo Surface
+[2021.01.27-05.05.18:343][905]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.18:343][905]LogEditorTransaction: Undo Surface
+[2021.01.27-05.05.18:726][928]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.18:726][928]LogEditorTransaction: Undo Surface
+[2021.01.27-05.05.19:028][946]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.19:028][946]LogEditorTransaction: Undo Surface
+[2021.01.27-05.05.19:278][961]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.19:278][961]LogEditorTransaction: Undo Delete Actors
+[2021.01.27-05.05.32:909][744]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.32:909][744]LogEditorTransaction: Undo Surface
+[2021.01.27-05.05.38:593][ 51]Cmd: DELETE
+[2021.01.27-05.05.38:593][ 51]Cmd: ACTOR DELETE
+[2021.01.27-05.05.38:610][ 51]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.05.38:610][ 51]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.05.38:611][ 51]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.05.38:611][ 51]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.05.38:611][ 51]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.05.38:611][ 51]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.27-05.05.38:623][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.01.27-05.05.38:628][ 51]LogEditorActor: Deleted 6 Actors (0.035 secs)
+[2021.01.27-05.05.40:819][181]LogVoxel: Forcing GC
+[2021.01.27-05.05.40:859][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.01.27-05.05.50:731][742]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.50:731][742]LogEditorTransaction: Undo Surface
+[2021.01.27-05.05.52:562][837]Cmd: TRANSACTION UNDO
+[2021.01.27-05.05.52:562][837]LogEditorTransaction: Undo Surface
+[2021.01.27-05.06.10:809][921]LogVoxel: Forcing GC
+[2021.01.27-05.06.10:836][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.01.27-05.06.40:816][721]LogVoxel: Forcing GC
+[2021.01.27-05.06.40:843][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.01.27-05.07.05:267][157]Cmd: TRANSACTION UNDO
+[2021.01.27-05.07.05:267][157]LogEditorTransaction: Undo Surface
+[2021.01.27-05.07.05:589][168]Cmd: TRANSACTION UNDO
+[2021.01.27-05.07.05:589][168]LogEditorTransaction: Undo Surface
+[2021.01.27-05.07.07:371][269]Cmd: TRANSACTION UNDO
+[2021.01.27-05.07.07:371][269]LogEditorTransaction: Undo Surface
+[2021.01.27-05.07.07:973][305]Cmd: TRANSACTION UNDO
+[2021.01.27-05.07.07:973][305]LogEditorTransaction: Undo Surface
+[2021.01.27-05.07.08:606][343]Cmd: TRANSACTION UNDO
+[2021.01.27-05.07.08:606][343]LogEditorTransaction: Undo Surface
+[2021.01.27-05.07.10:826][476]LogVoxel: Forcing GC
+[2021.01.27-05.07.10:853][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.27-05.07.19:761][ 10]Cmd: TRANSACTION UNDO
+[2021.01.27-05.07.19:761][ 10]LogEditorTransaction: Undo Surface
+[2021.01.27-05.07.20:000][ 18]Cmd: TRANSACTION UNDO
+[2021.01.27-05.07.20:000][ 18]LogEditorTransaction: Undo Surface
+[2021.01.27-05.07.20:507][ 40]Cmd: TRANSACTION UNDO
+[2021.01.27-05.07.20:507][ 40]LogEditorTransaction: Undo Surface
+[2021.01.27-05.07.20:840][ 60]Cmd: TRANSACTION UNDO
+[2021.01.27-05.07.20:840][ 60]LogEditorTransaction: Undo Surface
+[2021.01.27-05.07.21:174][ 80]Cmd: TRANSACTION UNDO
+[2021.01.27-05.07.21:174][ 80]LogEditorTransaction: Undo Surface
+[2021.01.27-05.07.40:832][258]LogVoxel: Forcing GC
+[2021.01.27-05.07.40:856][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.01.27-05.07.51:137][875]Cmd: TRANSACTION UNDO
+[2021.01.27-05.07.51:137][875]LogEditorTransaction: Undo Surface
+[2021.01.27-05.08.02:862][564]Cmd: TRANSACTION UNDO
+[2021.01.27-05.08.02:862][564]LogEditorTransaction: Undo Surface
+[2021.01.27-05.08.10:353][999]Cmd: TRANSACTION UNDO
+[2021.01.27-05.08.10:353][999]LogEditorTransaction: Undo Surface
+[2021.01.27-05.08.10:854][ 16]LogVoxel: Forcing GC
+[2021.01.27-05.08.10:881][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.01.27-05.08.14:900][257]Cmd: TRANSACTION UNDO
+[2021.01.27-05.08.14:900][257]LogEditorTransaction: Undo Surface
+[2021.01.27-05.08.19:906][548]Cmd: TRANSACTION UNDO
+[2021.01.27-05.08.19:906][548]LogEditorTransaction: Undo Surface
+[2021.01.27-05.08.21:845][655]Cmd: TRANSACTION UNDO
+[2021.01.27-05.08.21:845][655]LogEditorTransaction: Undo Surface
+[2021.01.27-05.08.22:687][705]Cmd: TRANSACTION UNDO
+[2021.01.27-05.08.22:687][705]LogEditorTransaction: Undo Surface
+[2021.01.27-05.08.25:101][849]Cmd: TRANSACTION UNDO
+[2021.01.27-05.08.25:101][849]LogEditorTransaction: Undo Surface
+[2021.01.27-05.08.40:868][791]LogVoxel: Forcing GC
+[2021.01.27-05.08.40:894][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.01.27-05.09.10:881][578]LogVoxel: Forcing GC
+[2021.01.27-05.09.10:908][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.01.27-05.09.40:889][364]LogVoxel: Forcing GC
+[2021.01.27-05.09.40:917][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.01.27-05.10.10:890][162]LogVoxel: Forcing GC
+[2021.01.27-05.10.10:919][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.27-05.10.17:566][562]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.17:566][562]LogEditorTransaction: Undo Surface
+[2021.01.27-05.10.18:578][613]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.18:578][613]LogEditorTransaction: Undo Surface
+[2021.01.27-05.10.24:349][957]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.24:349][957]LogEditorTransaction: Undo Revert
+[2021.01.27-05.10.24:870][978]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.24:870][978]LogEditorTransaction: Undo Revert
+[2021.01.27-05.10.25:255][  1]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.25:255][  1]LogEditorTransaction: Undo Revert
+[2021.01.27-05.10.27:811][154]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.27:811][154]LogEditorTransaction: Undo Revert
+[2021.01.27-05.10.28:111][172]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.28:112][172]LogEditorTransaction: Undo Revert
+[2021.01.27-05.10.28:461][193]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.28:461][193]LogEditorTransaction: Undo Revert
+[2021.01.27-05.10.28:828][215]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.28:828][215]LogEditorTransaction: Undo Revert
+[2021.01.27-05.10.35:990][635]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.35:990][635]LogEditorTransaction: Undo Revert
+[2021.01.27-05.10.36:322][649]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.36:322][649]LogEditorTransaction: Undo Revert
+[2021.01.27-05.10.36:597][662]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.36:597][662]LogEditorTransaction: Undo Revert
+[2021.01.27-05.10.36:847][677]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.36:847][677]LogEditorTransaction: Undo Revert
+[2021.01.27-05.10.37:131][694]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.37:131][694]LogEditorTransaction: Undo Revert
+[2021.01.27-05.10.37:497][716]Cmd: TRANSACTION UNDO
+[2021.01.27-05.10.37:497][716]LogEditorTransaction: Undo Revert
+[2021.01.27-05.10.40:904][920]LogVoxel: Forcing GC
+[2021.01.27-05.10.40:933][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.01.27-05.11.01:593][136]Cmd: TRANSACTION UNDO
+[2021.01.27-05.11.01:593][136]LogEditorTransaction: Undo Level
+[2021.01.27-05.11.01:953][151]Cmd: TRANSACTION UNDO
+[2021.01.27-05.11.01:953][151]LogEditorTransaction: Undo Level
+[2021.01.27-05.11.10:908][681]LogVoxel: Forcing GC
+[2021.01.27-05.11.10:937][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.01.27-05.11.16:729][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.01.27-05.11.16:752][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RougeLike" FILE="E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.27-05.11.16:770][ 26]LogVoxel: Compressed 1.275927 MB in 0.010022s (127.311301 MB/s). Compressed Size: 0.142705 MB (11.184418%). Compression: 0.009974s (99.521058%). Num Chunks: 1.
+[2021.01.27-05.11.16:781][ 26]LogVoxel: Compressed 1.017929 MB in 0.003209s (317.230453 MB/s). Compressed Size: 0.056879 MB (5.587722%). Compression: 0.003104s (96.746447%). Num Chunks: 1.
+[2021.01.27-05.11.16:867][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.01.27-05.11.17:068][ 26]LogSavePackage: Moving 'E:/Storm's Created Games/Woodlands/Saved/RougeLike4238A5734F4E6E82F4C7E59D0D2DD600.tmp' to 'E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike.umap'
+[2021.01.27-05.11.17:142][ 26]LogFileHelpers: Saving map 'RougeLike' took 0.391
+[2021.01.27-05.11.17:142][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RougeLike_BuiltData" FILE="E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike_BuiltData.uasset" SILENT=true
+[2021.01.27-05.11.17:199][ 26]LogSavePackage: Moving 'E:/Storm's Created Games/Woodlands/Saved/RougeLike_BuiltDataBDFC4EF34FA7784FEEB13990490CEB35.tmp' to 'E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike_BuiltData.uasset'
+[2021.01.27-05.11.17:202][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RougeLike_BuiltData" FILE="E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike_BuiltData.uasset" SILENT=true
+[2021.01.27-05.11.17:224][ 26]LogSavePackage: Moving 'E:/Storm's Created Games/Woodlands/Saved/RougeLike_BuiltData92436AE544830E76ED58509166532171.tmp' to 'E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike_BuiltData.uasset'
+[2021.01.27-05.11.17:304][ 26]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.27-05.11.17:304][ 26]LogContentValidation: Display: Validating World /Game/Maps/RougeLike.RougeLike
+[2021.01.27-05.11.17:304][ 26]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/RougeLike_BuiltData.RougeLike_BuiltData
+[2021.01.27-05.11.34:683][ 37]Cmd: TRANSACTION UNDO
+[2021.01.27-05.11.34:683][ 37]LogEditorTransaction: Undo Flatten
+[2021.01.27-05.11.35:866][ 98]Cmd: TRANSACTION UNDO
+[2021.01.27-05.11.35:866][ 98]LogEditorTransaction: Undo Flatten
+[2021.01.27-05.11.39:098][281]Cmd: TRANSACTION UNDO
+[2021.01.27-05.11.39:098][281]LogEditorTransaction: Undo Flatten
+[2021.01.27-05.11.40:930][378]LogVoxel: Forcing GC
+[2021.01.27-05.11.40:957][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.01.27-05.11.56:600][314]Cmd: TRANSACTION UNDO
+[2021.01.27-05.11.56:600][314]LogEditorTransaction: Undo Surface
+[2021.01.27-05.12.02:480][646]Cmd: TRANSACTION UNDO
+[2021.01.27-05.12.02:480][646]LogEditorTransaction: Undo Surface
+[2021.01.27-05.12.06:356][863]Cmd: TRANSACTION UNDO
+[2021.01.27-05.12.06:356][863]LogEditorTransaction: Undo Surface
+[2021.01.27-05.12.07:869][944]Cmd: TRANSACTION UNDO
+[2021.01.27-05.12.07:869][944]LogEditorTransaction: Undo Surface
+[2021.01.27-05.12.10:946][128]LogVoxel: Forcing GC
+[2021.01.27-05.12.10:972][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.27-05.12.12:717][234]Cmd: TRANSACTION UNDO
+[2021.01.27-05.12.12:717][234]LogEditorTransaction: Undo Edit Sculpt Strength
+[2021.01.27-05.12.13:093][250]Cmd: TRANSACTION UNDO
+[2021.01.27-05.12.13:093][250]LogEditorTransaction: Undo Surface
+[2021.01.27-05.12.21:442][749]Cmd: TRANSACTION UNDO
+[2021.01.27-05.12.21:442][749]LogEditorTransaction: Undo Surface
+[2021.01.27-05.12.31:334][311]Cmd: TRANSACTION UNDO
+[2021.01.27-05.12.31:334][311]LogEditorTransaction: Undo Trim
+[2021.01.27-05.12.33:468][426]Cmd: TRANSACTION UNDO
+[2021.01.27-05.12.33:468][426]LogEditorTransaction: Undo Trim
+[2021.01.27-05.12.40:952][871]LogVoxel: Forcing GC
+[2021.01.27-05.12.40:980][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.01.27-05.12.43:685][ 33]Cmd: TRANSACTION UNDO
+[2021.01.27-05.12.43:685][ 33]LogEditorTransaction: Undo Revert
+[2021.01.27-05.12.53:164][586]Cmd: TRANSACTION UNDO
+[2021.01.27-05.12.53:164][586]LogEditorTransaction: Undo Revert
+[2021.01.27-05.13.01:221][ 50]Cmd: TRANSACTION UNDO
+[2021.01.27-05.13.01:221][ 50]LogEditorTransaction: Undo Smooth
+[2021.01.27-05.13.10:961][612]LogVoxel: Forcing GC
+[2021.01.27-05.13.10:987][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.27-05.13.20:898][208]Cmd: TRANSACTION UNDO
+[2021.01.27-05.13.20:898][208]LogEditorTransaction: Undo Surface
+[2021.01.27-05.13.40:979][388]LogVoxel: Forcing GC
+[2021.01.27-05.13.41:004][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.01.27-05.13.41:917][444]Cmd: TRANSACTION UNDO
+[2021.01.27-05.13.41:917][444]LogEditorTransaction: Undo Smooth
+[2021.01.27-05.13.48:579][830]Cmd: TRANSACTION UNDO
+[2021.01.27-05.13.48:579][830]LogEditorTransaction: Undo Surface
+[2021.01.27-05.13.48:906][840]Cmd: TRANSACTION UNDO
+[2021.01.27-05.13.48:906][840]LogEditorTransaction: Undo Surface
+[2021.01.27-05.14.01:805][607]Cmd: TRANSACTION UNDO
+[2021.01.27-05.14.01:805][607]LogEditorTransaction: Undo Surface
+[2021.01.27-05.14.10:980][143]LogVoxel: Forcing GC
+[2021.01.27-05.14.11:006][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.01.27-05.14.40:989][930]LogVoxel: Forcing GC
+[2021.01.27-05.14.41:016][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.01.27-05.14.41:764][976]Cmd: TRANSACTION UNDO
+[2021.01.27-05.14.41:764][976]LogEditorTransaction: Undo Surface
+[2021.01.27-05.14.43:501][ 70]Cmd: TRANSACTION UNDO
+[2021.01.27-05.14.43:501][ 70]LogEditorTransaction: Undo Surface
+[2021.01.27-05.15.10:974][687]Cmd: TRANSACTION UNDO
+[2021.01.27-05.15.10:974][687]LogEditorTransaction: Undo Surface
+[2021.01.27-05.15.11:010][688]LogVoxel: Forcing GC
+[2021.01.27-05.15.11:040][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.01.27-05.15.15:323][938]Cmd: TRANSACTION UNDO
+[2021.01.27-05.15.15:323][938]LogEditorTransaction: Undo Surface
+[2021.01.27-05.15.25:201][521]Cmd: TRANSACTION UNDO
+[2021.01.27-05.15.25:201][521]LogEditorTransaction: Undo Surface
+[2021.01.27-05.15.26:350][578]Cmd: TRANSACTION UNDO
+[2021.01.27-05.15.26:350][578]LogEditorTransaction: Undo Surface
+[2021.01.27-05.15.30:006][787]Cmd: TRANSACTION UNDO
+[2021.01.27-05.15.30:006][787]LogEditorTransaction: Undo Surface
+[2021.01.27-05.15.41:014][435]LogVoxel: Forcing GC
+[2021.01.27-05.15.41:041][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.01.27-05.16.11:020][222]LogVoxel: Forcing GC
+[2021.01.27-05.16.11:047][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.01.27-05.16.41:038][963]LogVoxel: Forcing GC
+[2021.01.27-05.16.41:065][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.01.27-05.16.45:340][209]Cmd: TRANSACTION UNDO
+[2021.01.27-05.16.45:340][209]LogEditorTransaction: Undo Surface
+[2021.01.27-05.16.45:986][236]Cmd: TRANSACTION UNDO
+[2021.01.27-05.16.45:986][236]LogEditorTransaction: Undo Surface
+[2021.01.27-05.17.09:411][621]Cmd: TRANSACTION UNDO
+[2021.01.27-05.17.09:411][621]LogEditorTransaction: Undo Surface
+[2021.01.27-05.17.11:045][708]LogVoxel: Forcing GC
+[2021.01.27-05.17.11:071][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.01.27-05.17.33:304][999]Cmd: TRANSACTION UNDO
+[2021.01.27-05.17.33:304][999]LogEditorTransaction: Undo Surface
+[2021.01.27-05.17.39:666][354]Cmd: TRANSACTION UNDO
+[2021.01.27-05.17.39:666][354]LogEditorTransaction: Undo Surface
+[2021.01.27-05.17.41:052][426]LogVoxel: Forcing GC
+[2021.01.27-05.17.41:079][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.27-05.17.43:908][597]Cmd: TRANSACTION UNDO
+[2021.01.27-05.17.43:908][597]LogEditorTransaction: Undo Surface
+[2021.01.27-05.17.44:321][614]Cmd: TRANSACTION UNDO
+[2021.01.27-05.17.44:321][614]LogEditorTransaction: Undo Surface
+[2021.01.27-05.17.44:587][628]Cmd: TRANSACTION UNDO
+[2021.01.27-05.17.44:587][628]LogEditorTransaction: Undo Edit Channel
+[2021.01.27-05.18.11:065][159]LogVoxel: Forcing GC
+[2021.01.27-05.18.11:092][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.01.27-05.18.41:070][929]LogVoxel: Forcing GC
+[2021.01.27-05.18.41:097][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.01.27-05.19.11:073][727]LogVoxel: Forcing GC
+[2021.01.27-05.19.11:100][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.27-05.19.41:076][522]LogVoxel: Forcing GC
+[2021.01.27-05.19.41:103][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.01.27-05.20.05:799][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.01.27-05.20.05:819][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RougeLike" FILE="E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.27-05.20.05:827][931]LogVoxel: Compressed 1.041407 MB in 0.003785s (275.140458 MB/s). Compressed Size: 0.063555 MB (6.102781%). Compression: 0.003643s (96.240423%). Num Chunks: 1.
+[2021.01.27-05.20.05:842][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.01.27-05.20.06:103][931]LogSavePackage: Moving 'E:/Storm's Created Games/Woodlands/Saved/RougeLikeD95FC442456B73D3F55482926AEC0295.tmp' to 'E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike.umap'
+[2021.01.27-05.20.06:159][931]LogFileHelpers: Saving map 'RougeLike' took 0.341
+[2021.01.27-05.20.06:159][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RougeLike_BuiltData" FILE="E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike_BuiltData.uasset" SILENT=true
+[2021.01.27-05.20.06:192][931]LogSavePackage: Moving 'E:/Storm's Created Games/Woodlands/Saved/RougeLike_BuiltData79DA90EB47CCD082F91207BBA4BA8A17.tmp' to 'E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike_BuiltData.uasset'
+[2021.01.27-05.20.06:201][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tiles/Tile0/Tile5VoxelWorld" FILE="E:/Storm's Created Games/Woodlands/Content/Tiles/Tile0/Tile5VoxelWorld.uasset" SILENT=true
+[2021.01.27-05.20.06:238][931]LogSavePackage: Moving 'E:/Storm's Created Games/Woodlands/Saved/Tile5VoxelWorld0C16DF604F57B098625ADDA9EB3FD590.tmp' to 'E:/Storm's Created Games/Woodlands/Content/Tiles/Tile0/Tile5VoxelWorld.uasset'
+[2021.01.27-05.20.06:241][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RougeLike_BuiltData" FILE="E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike_BuiltData.uasset" SILENT=true
+[2021.01.27-05.20.06:257][931]LogSavePackage: Moving 'E:/Storm's Created Games/Woodlands/Saved/RougeLike_BuiltDataC439A8F447E14F03B165F3B528D73A61.tmp' to 'E:/Storm's Created Games/Woodlands/Content/Maps/RougeLike_BuiltData.uasset'
+[2021.01.27-05.20.06:258][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tiles/Tile0/Tile4VoxelWorld" FILE="E:/Storm's Created Games/Woodlands/Content/Tiles/Tile0/Tile4VoxelWorld.uasset" SILENT=true
+[2021.01.27-05.20.06:275][931]LogSavePackage: Moving 'E:/Storm's Created Games/Woodlands/Saved/Tile4VoxelWorld45902A414CBCA029FF0E1EBD73A5B3BC.tmp' to 'E:/Storm's Created Games/Woodlands/Content/Tiles/Tile0/Tile4VoxelWorld.uasset'
+[2021.01.27-05.20.06:327][931]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.27-05.20.06:327][931]LogContentValidation: Display: Validating World /Game/Maps/RougeLike.RougeLike
+[2021.01.27-05.20.06:327][931]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/RougeLike_BuiltData.RougeLike_BuiltData
+[2021.01.27-05.20.06:327][931]LogContentValidation: Display: Validating VoxelWorldSaveObject /Game/Tiles/Tile0/Tile5VoxelWorld.Tile5VoxelWorld
+[2021.01.27-05.20.06:327][931]LogContentValidation: Display: Validating VoxelWorldSaveObject /Game/Tiles/Tile0/Tile4VoxelWorld.Tile4VoxelWorld
+[2021.01.27-05.20.54:054][674]Cmd: TRANSACTION UNDO
+[2021.01.27-05.20.54:054][674]LogEditorTransaction: Undo Foliage Editing
+[2021.01.27-05.20.54:372][686]Cmd: TRANSACTION UNDO
+[2021.01.27-05.20.54:372][686]LogEditorTransaction: Undo Foliage Editing
+[2021.01.27-05.20.54:630][697]Cmd: TRANSACTION UNDO
+[2021.01.27-05.20.54:630][697]LogEditorTransaction: Undo Foliage Editing
+[2021.01.27-05.20.55:013][720]Cmd: TRANSACTION UNDO
+[2021.01.27-05.20.55:013][720]LogEditorTransaction: Undo Foliage Editing
+[2021.01.27-05.20.55:296][737]Cmd: TRANSACTION UNDO
+[2021.01.27-05.20.55:296][737]LogEditorTransaction: Undo Foliage Editing
+[2021.01.27-05.21.01:524][110]Cmd: TRANSACTION UNDO
+[2021.01.27-05.21.01:524][110]LogEditorTransaction: Undo Foliage Editing
+[2021.01.27-05.21.10:389][624]Cmd: TRANSACTION UNDO
+[2021.01.27-05.21.10:389][624]LogEditorTransaction: Undo Foliage Editing
+[2021.01.27-05.21.10:614][632]Cmd: TRANSACTION UNDO
+[2021.01.27-05.21.10:614][632]LogEditorTransaction: Undo Foliage Editing
+[2021.01.27-05.21.10:799][638]Cmd: TRANSACTION UNDO
+[2021.01.27-05.21.10:799][638]LogEditorTransaction: Undo Foliage Editing
+[2021.01.27-05.21.11:123][655]Cmd: TRANSACTION UNDO
+[2021.01.27-05.21.11:123][655]LogEditorTransaction: Undo Foliage Editing
+[2021.01.27-05.21.15:429][913]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SkySphere)
+[2021.01.27-05.21.15:533][919]Cmd: TRANSACTION UNDO
+[2021.01.27-05.21.15:534][919]LogEditorTransaction: Undo Foliage Editing
+[2021.01.27-05.26.52:032][217]LogAssetTools: Warning: Failed to import 'C:\Users\nstor\Desktop\waterfallmodel/untitled.blend'. Unknown extension 'blend'.
+[2021.01.27-05.26.52:036][217]LogAssetTools: Warning: Failed to import 'C:\Users\nstor\Desktop\waterfallmodel/untitled.blend1'. Unknown extension 'blend1'.
+[2021.01.27-05.26.52:040][217]LogAssetTools: Warning: Failed to import 'C:\Users\nstor\Desktop\waterfallmodel/waterfall.blend'. Unknown extension 'blend'.
+[2021.01.27-05.30.06:473][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.01.27-05.30.06:485][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/RougeLike" FILE="E:/Storm's Created Games/Woodlands/Saved/Autosaves/Game/Maps/RougeLike_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.01.27-05.30.06:744][  9]LogSavePackage: Moving 'E:/Storm's Created Games/Woodlands/Saved/RougeLike_Auto1C552562E4520F42D420A73B0A0A445F6.tmp' to 'E:/Storm's Created Games/Woodlands/Saved/Autosaves/Game/Maps/RougeLike_Auto1.umap'
+[2021.01.27-05.30.07:025][  9]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/RougeLike' took 0.565
+[2021.01.27-05.30.07:025][  9]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.565
+[2021.01.27-05.30.31:624][132]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\nstor\Downloads\waterfall.fbx)
+[2021.01.27-05.30.31:899][132]LogFbx: Loading FBX Scene from C:\Users\nstor\Downloads\waterfall.fbx
+[2021.01.27-05.30.31:965][132]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.27-05.30.34:459][132]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.27-05.30.35:054][132]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2021.01.27-05.30.35:067][132]LogFbx: Display: Triangulating static mesh Sphere.046
+[2021.01.27-05.30.35:203][132]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.01.27-05.30.35:203][132]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.01.27-05.30.35:203][132]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.01.27-05.30.35:203][132]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.27-05.30.35:215][132]LogStaticMesh: Building static mesh waterfall_Sphere_046...
+[2021.01.27-05.30.35:227][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_046.waterfall_Sphere_046
+[2021.01.27-05.30.35:232][132]LogStaticMesh: Warning: waterfall_Sphere_046 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.35:232][132]LogStaticMesh: Warning: waterfall_Sphere_046 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.35:301][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_046 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.35:301][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_046
+[2021.01.27-05.30.35:304][132]LogFbx: Display: Triangulating static mesh Sphere.045
+[2021.01.27-05.30.35:341][132]LogStaticMesh: Building static mesh waterfall_Sphere_045...
+[2021.01.27-05.30.35:354][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_045.waterfall_Sphere_045
+[2021.01.27-05.30.35:357][132]LogStaticMesh: Warning: waterfall_Sphere_045 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.35:357][132]LogStaticMesh: Warning: waterfall_Sphere_045 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.35:373][132]LogFbx: Display: Triangulating static mesh Sphere.044
+[2021.01.27-05.30.35:407][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_045 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.35:407][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_045
+[2021.01.27-05.30.35:417][132]LogStaticMesh: Building static mesh waterfall_Sphere_044...
+[2021.01.27-05.30.35:427][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_044.waterfall_Sphere_044
+[2021.01.27-05.30.35:430][132]LogStaticMesh: Warning: waterfall_Sphere_044 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.35:430][132]LogStaticMesh: Warning: waterfall_Sphere_044 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.35:438][132]LogFbx: Display: Triangulating static mesh Sphere.043
+[2021.01.27-05.30.35:473][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_044 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.35:473][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_044
+[2021.01.27-05.30.35:473][132]LogStaticMesh: Building static mesh waterfall_Sphere_043...
+[2021.01.27-05.30.35:483][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_043.waterfall_Sphere_043
+[2021.01.27-05.30.35:486][132]LogStaticMesh: Warning: waterfall_Sphere_043 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.35:486][132]LogStaticMesh: Warning: waterfall_Sphere_043 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.35:494][132]LogFbx: Display: Triangulating static mesh Sphere.042
+[2021.01.27-05.30.35:527][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_043 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.35:527][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_043
+[2021.01.27-05.30.35:527][132]LogStaticMesh: Building static mesh waterfall_Sphere_042...
+[2021.01.27-05.30.35:536][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_042.waterfall_Sphere_042
+[2021.01.27-05.30.35:539][132]LogStaticMesh: Warning: waterfall_Sphere_042 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.35:539][132]LogStaticMesh: Warning: waterfall_Sphere_042 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.35:548][132]LogFbx: Display: Triangulating static mesh Sphere.041
+[2021.01.27-05.30.35:585][132]LogStaticMesh: Building static mesh waterfall_Sphere_041...
+[2021.01.27-05.30.35:597][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_042 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.35:597][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_042
+[2021.01.27-05.30.35:597][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_041.waterfall_Sphere_041
+[2021.01.27-05.30.35:600][132]LogStaticMesh: Warning: waterfall_Sphere_041 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.35:600][132]LogStaticMesh: Warning: waterfall_Sphere_041 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.35:609][132]LogFbx: Display: Triangulating static mesh Sphere.040
+[2021.01.27-05.30.35:643][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_041 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.35:644][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_041
+[2021.01.27-05.30.35:645][132]LogStaticMesh: Building static mesh waterfall_Sphere_040...
+[2021.01.27-05.30.35:659][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_040.waterfall_Sphere_040
+[2021.01.27-05.30.35:660][132]LogStaticMesh: Warning: waterfall_Sphere_040 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.35:661][132]LogStaticMesh: Warning: waterfall_Sphere_040 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.35:671][132]LogFbx: Display: Triangulating static mesh Sphere.039
+[2021.01.27-05.30.35:709][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_040 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.35:709][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_040
+[2021.01.27-05.30.35:709][132]LogStaticMesh: Building static mesh waterfall_Sphere_039...
+[2021.01.27-05.30.35:724][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_039.waterfall_Sphere_039
+[2021.01.27-05.30.35:727][132]LogStaticMesh: Warning: waterfall_Sphere_039 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.35:727][132]LogStaticMesh: Warning: waterfall_Sphere_039 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.35:736][132]LogFbx: Display: Triangulating static mesh Sphere.038
+[2021.01.27-05.30.35:773][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_039 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.35:773][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_039
+[2021.01.27-05.30.35:773][132]LogStaticMesh: Building static mesh waterfall_Sphere_038...
+[2021.01.27-05.30.35:783][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_038.waterfall_Sphere_038
+[2021.01.27-05.30.35:785][132]LogStaticMesh: Warning: waterfall_Sphere_038 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.35:785][132]LogStaticMesh: Warning: waterfall_Sphere_038 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.35:794][132]LogFbx: Display: Triangulating static mesh Sphere.037
+[2021.01.27-05.30.35:830][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_038 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.35:830][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_038
+[2021.01.27-05.30.35:830][132]LogStaticMesh: Building static mesh waterfall_Sphere_037...
+[2021.01.27-05.30.35:842][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_037.waterfall_Sphere_037
+[2021.01.27-05.30.35:846][132]LogStaticMesh: Warning: waterfall_Sphere_037 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.35:846][132]LogStaticMesh: Warning: waterfall_Sphere_037 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.35:876][132]LogFbx: Display: Triangulating static mesh Sphere.036
+[2021.01.27-05.30.35:913][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_037 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.35:913][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_037
+[2021.01.27-05.30.35:913][132]LogStaticMesh: Building static mesh waterfall_Sphere_036...
+[2021.01.27-05.30.35:926][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_036.waterfall_Sphere_036
+[2021.01.27-05.30.35:929][132]LogStaticMesh: Warning: waterfall_Sphere_036 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.35:929][132]LogStaticMesh: Warning: waterfall_Sphere_036 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.35:944][132]LogFbx: Display: Triangulating static mesh Sphere.035
+[2021.01.27-05.30.35:982][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_036 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.35:982][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_036
+[2021.01.27-05.30.35:983][132]LogStaticMesh: Building static mesh waterfall_Sphere_035...
+[2021.01.27-05.30.35:997][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_035.waterfall_Sphere_035
+[2021.01.27-05.30.36:020][132]LogStaticMesh: Warning: waterfall_Sphere_035 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:020][132]LogStaticMesh: Warning: waterfall_Sphere_035 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:032][132]LogFbx: Display: Triangulating static mesh Sphere.034
+[2021.01.27-05.30.36:071][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_035 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:071][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_035
+[2021.01.27-05.30.36:072][132]LogStaticMesh: Building static mesh waterfall_Sphere_034...
+[2021.01.27-05.30.36:084][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_034.waterfall_Sphere_034
+[2021.01.27-05.30.36:086][132]LogStaticMesh: Warning: waterfall_Sphere_034 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:086][132]LogStaticMesh: Warning: waterfall_Sphere_034 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:099][132]LogFbx: Display: Triangulating static mesh Sphere.033
+[2021.01.27-05.30.36:134][132]LogStaticMesh: Building static mesh waterfall_Sphere_033...
+[2021.01.27-05.30.36:148][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_034 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:148][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_034
+[2021.01.27-05.30.36:148][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_033.waterfall_Sphere_033
+[2021.01.27-05.30.36:150][132]LogStaticMesh: Warning: waterfall_Sphere_033 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:150][132]LogStaticMesh: Warning: waterfall_Sphere_033 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:172][132]LogFbx: Display: Triangulating static mesh Sphere.032
+[2021.01.27-05.30.36:209][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_033 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:209][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_033
+[2021.01.27-05.30.36:210][132]LogStaticMesh: Building static mesh waterfall_Sphere_032...
+[2021.01.27-05.30.36:223][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_032.waterfall_Sphere_032
+[2021.01.27-05.30.36:226][132]LogStaticMesh: Warning: waterfall_Sphere_032 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:226][132]LogStaticMesh: Warning: waterfall_Sphere_032 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:248][132]LogFbx: Display: Triangulating static mesh Sphere.031
+[2021.01.27-05.30.36:282][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_032 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:282][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_032
+[2021.01.27-05.30.36:284][132]LogStaticMesh: Building static mesh waterfall_Sphere_031...
+[2021.01.27-05.30.36:299][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_031.waterfall_Sphere_031
+[2021.01.27-05.30.36:302][132]LogStaticMesh: Warning: waterfall_Sphere_031 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:302][132]LogStaticMesh: Warning: waterfall_Sphere_031 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:315][132]LogFbx: Display: Triangulating static mesh Sphere.030
+[2021.01.27-05.30.36:352][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_031 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:352][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_031
+[2021.01.27-05.30.36:352][132]LogStaticMesh: Building static mesh waterfall_Sphere_030...
+[2021.01.27-05.30.36:367][132]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/waterfall_Sphere_030.waterfall_Sphere_030
+[2021.01.27-05.30.36:370][132]LogStaticMesh: Warning: waterfall_Sphere_030 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:370][132]LogStaticMesh: Warning: waterfall_Sphere_030 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:386][132]LogFbx: Display: Triangulating static mesh Sphere.029
+[2021.01.27-05.30.36:424][132]LogStaticMesh: Building static mesh waterfall_Sphere_029...
+[2021.01.27-05.30.36:436][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_030 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:436][132]LogMeshUtilities: Finished distance field build in 0.1s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_030
+[2021.01.27-05.30.36:436][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_029.waterfall_Sphere_029
+[2021.01.27-05.30.36:440][132]LogStaticMesh: Warning: waterfall_Sphere_029 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:440][132]LogStaticMesh: Warning: waterfall_Sphere_029 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:460][132]LogFbx: Display: Triangulating static mesh Sphere.028
+[2021.01.27-05.30.36:498][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_029 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:498][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_029
+[2021.01.27-05.30.36:499][132]LogStaticMesh: Building static mesh waterfall_Sphere_028...
+[2021.01.27-05.30.36:513][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_028.waterfall_Sphere_028
+[2021.01.27-05.30.36:515][132]LogStaticMesh: Warning: waterfall_Sphere_028 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:516][132]LogStaticMesh: Warning: waterfall_Sphere_028 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:530][132]LogFbx: Display: Triangulating static mesh Sphere.027
+[2021.01.27-05.30.36:569][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_028 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:569][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_028
+[2021.01.27-05.30.36:569][132]LogStaticMesh: Building static mesh waterfall_Sphere_027...
+[2021.01.27-05.30.36:581][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_027.waterfall_Sphere_027
+[2021.01.27-05.30.36:593][132]LogStaticMesh: Warning: waterfall_Sphere_027 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:593][132]LogStaticMesh: Warning: waterfall_Sphere_027 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:606][132]LogFbx: Display: Triangulating static mesh Sphere.026
+[2021.01.27-05.30.36:646][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_027 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:646][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_027
+[2021.01.27-05.30.36:646][132]LogStaticMesh: Building static mesh waterfall_Sphere_026...
+[2021.01.27-05.30.36:660][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_026.waterfall_Sphere_026
+[2021.01.27-05.30.36:663][132]LogStaticMesh: Warning: waterfall_Sphere_026 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:663][132]LogStaticMesh: Warning: waterfall_Sphere_026 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:676][132]LogFbx: Display: Triangulating static mesh Sphere.025
+[2021.01.27-05.30.36:711][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_026 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:711][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_026
+[2021.01.27-05.30.36:712][132]LogStaticMesh: Building static mesh waterfall_Sphere_025...
+[2021.01.27-05.30.36:722][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_025.waterfall_Sphere_025
+[2021.01.27-05.30.36:725][132]LogStaticMesh: Warning: waterfall_Sphere_025 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:725][132]LogStaticMesh: Warning: waterfall_Sphere_025 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:746][132]LogFbx: Display: Triangulating static mesh Sphere.024
+[2021.01.27-05.30.36:780][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_025 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:780][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_025
+[2021.01.27-05.30.36:781][132]LogStaticMesh: Building static mesh waterfall_Sphere_024...
+[2021.01.27-05.30.36:789][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_024.waterfall_Sphere_024
+[2021.01.27-05.30.36:791][132]LogStaticMesh: Warning: waterfall_Sphere_024 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:791][132]LogStaticMesh: Warning: waterfall_Sphere_024 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:802][132]LogFbx: Display: Triangulating static mesh Sphere.023
+[2021.01.27-05.30.36:838][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_024 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:838][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_024
+[2021.01.27-05.30.36:838][132]LogStaticMesh: Building static mesh waterfall_Sphere_023...
+[2021.01.27-05.30.36:847][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_023.waterfall_Sphere_023
+[2021.01.27-05.30.36:849][132]LogStaticMesh: Warning: waterfall_Sphere_023 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:850][132]LogStaticMesh: Warning: waterfall_Sphere_023 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:864][132]LogFbx: Display: Triangulating static mesh Sphere.022
+[2021.01.27-05.30.36:900][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_023 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:900][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_023
+[2021.01.27-05.30.36:900][132]LogStaticMesh: Building static mesh waterfall_Sphere_022...
+[2021.01.27-05.30.36:910][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_022.waterfall_Sphere_022
+[2021.01.27-05.30.36:912][132]LogStaticMesh: Warning: waterfall_Sphere_022 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.36:912][132]LogStaticMesh: Warning: waterfall_Sphere_022 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.36:936][132]LogMaterial: Display: Missing cached shader map for material Material_014, compiling. 
+[2021.01.27-05.30.36:949][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_022 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.36:949][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_022
+[2021.01.27-05.30.36:949][132]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.01.27-05.30.36:956][132]LogFbx: Display: Triangulating static mesh Cylinder.062
+[2021.01.27-05.30.36:970][132]LogStaticMesh: Building static mesh waterfall_Cylinder_062...
+[2021.01.27-05.30.36:972][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_062.waterfall_Cylinder_062
+[2021.01.27-05.30.36:986][132]LogFbx: Display: Triangulating static mesh Cylinder.061
+[2021.01.27-05.30.36:991][132]LogStaticMesh: Building static mesh waterfall_Cylinder_061...
+[2021.01.27-05.30.36:993][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_061.waterfall_Cylinder_061
+[2021.01.27-05.30.37:005][132]LogMaterial: Display: Missing cached shader map for material Material_008, compiling. 
+[2021.01.27-05.30.37:022][132]LogFbx: Display: Triangulating static mesh Cylinder.060
+[2021.01.27-05.30.37:038][132]LogStaticMesh: Building static mesh waterfall_Cylinder_060...
+[2021.01.27-05.30.37:040][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_060.waterfall_Cylinder_060
+[2021.01.27-05.30.37:045][132]LogFbx: Display: Triangulating static mesh Cylinder.059
+[2021.01.27-05.30.37:050][132]LogStaticMesh: Building static mesh waterfall_Cylinder_059...
+[2021.01.27-05.30.37:052][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_059.waterfall_Cylinder_059
+[2021.01.27-05.30.37:085][132]LogFbx: Display: Triangulating static mesh Cylinder.058
+[2021.01.27-05.30.37:090][132]LogStaticMesh: Building static mesh waterfall_Cylinder_058...
+[2021.01.27-05.30.37:092][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_058.waterfall_Cylinder_058
+[2021.01.27-05.30.37:128][132]LogMaterial: Display: Missing cached shader map for material Material_007, compiling. 
+[2021.01.27-05.30.37:147][132]LogFbx: Display: Triangulating static mesh Cylinder.057
+[2021.01.27-05.30.37:164][132]LogStaticMesh: Building static mesh waterfall_Cylinder_057...
+[2021.01.27-05.30.37:165][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_057.waterfall_Cylinder_057
+[2021.01.27-05.30.37:199][132]LogFbx: Display: Triangulating static mesh Cylinder.056
+[2021.01.27-05.30.37:204][132]LogStaticMesh: Building static mesh waterfall_Cylinder_056...
+[2021.01.27-05.30.37:204][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_056.waterfall_Cylinder_056
+[2021.01.27-05.30.37:230][132]LogFbx: Display: Triangulating static mesh Cylinder.055
+[2021.01.27-05.30.37:235][132]LogStaticMesh: Building static mesh waterfall_Cylinder_055...
+[2021.01.27-05.30.37:236][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_055.waterfall_Cylinder_055
+[2021.01.27-05.30.37:246][132]LogFbx: Display: Triangulating static mesh Cylinder.054
+[2021.01.27-05.30.37:250][132]LogStaticMesh: Building static mesh waterfall_Cylinder_054...
+[2021.01.27-05.30.37:252][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_054.waterfall_Cylinder_054
+[2021.01.27-05.30.37:263][132]LogFbx: Display: Triangulating static mesh Cylinder.053
+[2021.01.27-05.30.37:267][132]LogStaticMesh: Building static mesh waterfall_Cylinder_053...
+[2021.01.27-05.30.37:269][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_053.waterfall_Cylinder_053
+[2021.01.27-05.30.37:286][132]LogFbx: Display: Triangulating static mesh Cylinder.052
+[2021.01.27-05.30.37:289][132]LogStaticMesh: Building static mesh waterfall_Cylinder_052...
+[2021.01.27-05.30.37:291][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_052.waterfall_Cylinder_052
+[2021.01.27-05.30.37:308][132]LogFbx: Display: Triangulating static mesh Cylinder.051
+[2021.01.27-05.30.37:312][132]LogStaticMesh: Building static mesh waterfall_Cylinder_051...
+[2021.01.27-05.30.37:313][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_051.waterfall_Cylinder_051
+[2021.01.27-05.30.37:320][132]LogFbx: Display: Triangulating static mesh Cylinder.050
+[2021.01.27-05.30.37:324][132]LogStaticMesh: Building static mesh waterfall_Cylinder_050...
+[2021.01.27-05.30.37:326][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_050.waterfall_Cylinder_050
+[2021.01.27-05.30.37:335][132]LogFbx: Display: Triangulating static mesh Cylinder.049
+[2021.01.27-05.30.37:339][132]LogStaticMesh: Building static mesh waterfall_Cylinder_049...
+[2021.01.27-05.30.37:341][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_049.waterfall_Cylinder_049
+[2021.01.27-05.30.37:353][132]LogFbx: Display: Triangulating static mesh Cylinder.048
+[2021.01.27-05.30.37:359][132]LogStaticMesh: Building static mesh waterfall_Cylinder_048...
+[2021.01.27-05.30.37:361][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_048.waterfall_Cylinder_048
+[2021.01.27-05.30.37:367][132]LogFbx: Display: Triangulating static mesh Cylinder.047
+[2021.01.27-05.30.37:370][132]LogStaticMesh: Building static mesh waterfall_Cylinder_047...
+[2021.01.27-05.30.37:372][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_047.waterfall_Cylinder_047
+[2021.01.27-05.30.37:386][132]LogFbx: Display: Triangulating static mesh Cylinder.046
+[2021.01.27-05.30.37:391][132]LogStaticMesh: Building static mesh waterfall_Cylinder_046...
+[2021.01.27-05.30.37:394][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_046.waterfall_Cylinder_046
+[2021.01.27-05.30.37:421][132]LogMaterial: Display: Missing cached shader map for material Material_009, compiling. 
+[2021.01.27-05.30.37:440][132]LogFbx: Display: Triangulating static mesh Cylinder.045
+[2021.01.27-05.30.37:454][132]LogStaticMesh: Building static mesh waterfall_Cylinder_045...
+[2021.01.27-05.30.37:455][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_045.waterfall_Cylinder_045
+[2021.01.27-05.30.37:463][132]LogFbx: Display: Triangulating static mesh Cylinder.044
+[2021.01.27-05.30.37:467][132]LogStaticMesh: Building static mesh waterfall_Cylinder_044...
+[2021.01.27-05.30.37:469][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_044.waterfall_Cylinder_044
+[2021.01.27-05.30.37:476][132]LogFbx: Display: Triangulating static mesh Cylinder.043
+[2021.01.27-05.30.37:480][132]LogStaticMesh: Building static mesh waterfall_Cylinder_043...
+[2021.01.27-05.30.37:482][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_043.waterfall_Cylinder_043
+[2021.01.27-05.30.37:489][132]LogFbx: Display: Triangulating static mesh Cylinder.042
+[2021.01.27-05.30.37:493][132]LogStaticMesh: Building static mesh waterfall_Cylinder_042...
+[2021.01.27-05.30.37:494][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_042.waterfall_Cylinder_042
+[2021.01.27-05.30.37:502][132]LogFbx: Display: Triangulating static mesh Cylinder.041
+[2021.01.27-05.30.37:505][132]LogStaticMesh: Building static mesh waterfall_Cylinder_041...
+[2021.01.27-05.30.37:507][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_041.waterfall_Cylinder_041
+[2021.01.27-05.30.37:521][132]LogFbx: Display: Triangulating static mesh Cylinder.040
+[2021.01.27-05.30.37:526][132]LogStaticMesh: Building static mesh waterfall_Cylinder_040...
+[2021.01.27-05.30.37:529][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_040.waterfall_Cylinder_040
+[2021.01.27-05.30.37:534][132]LogFbx: Display: Triangulating static mesh Cylinder.039
+[2021.01.27-05.30.37:539][132]LogStaticMesh: Building static mesh waterfall_Cylinder_039...
+[2021.01.27-05.30.37:541][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_039.waterfall_Cylinder_039
+[2021.01.27-05.30.37:548][132]LogFbx: Display: Triangulating static mesh Cylinder.038
+[2021.01.27-05.30.37:552][132]LogStaticMesh: Building static mesh waterfall_Cylinder_038...
+[2021.01.27-05.30.37:554][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_038.waterfall_Cylinder_038
+[2021.01.27-05.30.37:566][132]LogFbx: Display: Triangulating static mesh Cylinder.037
+[2021.01.27-05.30.37:570][132]LogStaticMesh: Building static mesh waterfall_Cylinder_037...
+[2021.01.27-05.30.37:573][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_037.waterfall_Cylinder_037
+[2021.01.27-05.30.37:581][132]LogFbx: Display: Triangulating static mesh Cylinder.036
+[2021.01.27-05.30.37:585][132]LogStaticMesh: Building static mesh waterfall_Cylinder_036...
+[2021.01.27-05.30.37:587][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_036.waterfall_Cylinder_036
+[2021.01.27-05.30.37:599][132]LogFbx: Display: Triangulating static mesh Cylinder.035
+[2021.01.27-05.30.37:604][132]LogStaticMesh: Building static mesh waterfall_Cylinder_035...
+[2021.01.27-05.30.37:607][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_035.waterfall_Cylinder_035
+[2021.01.27-05.30.37:621][132]LogFbx: Display: Triangulating static mesh Cylinder.034
+[2021.01.27-05.30.37:624][132]LogStaticMesh: Building static mesh waterfall_Cylinder_034...
+[2021.01.27-05.30.37:626][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_034.waterfall_Cylinder_034
+[2021.01.27-05.30.37:634][132]LogFbx: Display: Triangulating static mesh Cylinder.033
+[2021.01.27-05.30.37:638][132]LogStaticMesh: Building static mesh waterfall_Cylinder_033...
+[2021.01.27-05.30.37:639][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_033.waterfall_Cylinder_033
+[2021.01.27-05.30.37:654][132]LogFbx: Display: Triangulating static mesh Sphere.021
+[2021.01.27-05.30.37:693][132]LogStaticMesh: Building static mesh waterfall_Sphere_021...
+[2021.01.27-05.30.37:706][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_021.waterfall_Sphere_021
+[2021.01.27-05.30.37:709][132]LogStaticMesh: Warning: waterfall_Sphere_021 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.37:709][132]LogStaticMesh: Warning: waterfall_Sphere_021 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.37:717][132]LogFbx: Display: Triangulating static mesh Sphere.020
+[2021.01.27-05.30.37:753][132]LogStaticMesh: Building static mesh waterfall_Sphere_020...
+[2021.01.27-05.30.37:765][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_020.waterfall_Sphere_020
+[2021.01.27-05.30.37:767][132]LogStaticMesh: Warning: waterfall_Sphere_020 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.37:767][132]LogStaticMesh: Warning: waterfall_Sphere_020 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.37:776][132]LogFbx: Display: Triangulating static mesh Sphere.019
+[2021.01.27-05.30.37:815][132]LogStaticMesh: Building static mesh waterfall_Sphere_019...
+[2021.01.27-05.30.37:826][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_019.waterfall_Sphere_019
+[2021.01.27-05.30.37:829][132]LogStaticMesh: Warning: waterfall_Sphere_019 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.37:829][132]LogStaticMesh: Warning: waterfall_Sphere_019 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.37:977][132]LogFbx: Display: Triangulating static mesh Sphere.018
+[2021.01.27-05.30.38:013][132]LogStaticMesh: Building static mesh waterfall_Sphere_018...
+[2021.01.27-05.30.38:024][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_018.waterfall_Sphere_018
+[2021.01.27-05.30.38:028][132]LogStaticMesh: Warning: waterfall_Sphere_018 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.38:028][132]LogStaticMesh: Warning: waterfall_Sphere_018 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.38:036][132]LogFbx: Display: Triangulating static mesh Sphere.017
+[2021.01.27-05.30.38:072][132]LogStaticMesh: Building static mesh waterfall_Sphere_017...
+[2021.01.27-05.30.38:083][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_017.waterfall_Sphere_017
+[2021.01.27-05.30.38:085][132]LogStaticMesh: Warning: waterfall_Sphere_017 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.38:086][132]LogStaticMesh: Warning: waterfall_Sphere_017 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.38:094][132]LogFbx: Display: Triangulating static mesh Sphere.016
+[2021.01.27-05.30.38:142][132]LogStaticMesh: Building static mesh waterfall_Sphere_016...
+[2021.01.27-05.30.38:154][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_016.waterfall_Sphere_016
+[2021.01.27-05.30.38:156][132]LogStaticMesh: Warning: waterfall_Sphere_016 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.38:157][132]LogStaticMesh: Warning: waterfall_Sphere_016 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.38:164][132]LogFbx: Display: Triangulating static mesh Sphere.015
+[2021.01.27-05.30.38:203][132]LogStaticMesh: Building static mesh waterfall_Sphere_015...
+[2021.01.27-05.30.38:216][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_015.waterfall_Sphere_015
+[2021.01.27-05.30.38:219][132]LogStaticMesh: Warning: waterfall_Sphere_015 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.38:219][132]LogStaticMesh: Warning: waterfall_Sphere_015 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.38:227][132]LogFbx: Display: Triangulating static mesh Sphere.014
+[2021.01.27-05.30.38:265][132]LogStaticMesh: Building static mesh waterfall_Sphere_014...
+[2021.01.27-05.30.38:277][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_014.waterfall_Sphere_014
+[2021.01.27-05.30.38:279][132]LogStaticMesh: Warning: waterfall_Sphere_014 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.38:279][132]LogStaticMesh: Warning: waterfall_Sphere_014 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.38:286][132]LogFbx: Display: Triangulating static mesh Sphere.013
+[2021.01.27-05.30.38:323][132]LogStaticMesh: Building static mesh waterfall_Sphere_013...
+[2021.01.27-05.30.38:337][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_013.waterfall_Sphere_013
+[2021.01.27-05.30.38:339][132]LogStaticMesh: Warning: waterfall_Sphere_013 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.38:339][132]LogStaticMesh: Warning: waterfall_Sphere_013 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.38:347][132]LogFbx: Display: Triangulating static mesh Sphere.012
+[2021.01.27-05.30.38:386][132]LogStaticMesh: Building static mesh waterfall_Sphere_012...
+[2021.01.27-05.30.38:398][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_012.waterfall_Sphere_012
+[2021.01.27-05.30.38:400][132]LogStaticMesh: Warning: waterfall_Sphere_012 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.38:401][132]LogStaticMesh: Warning: waterfall_Sphere_012 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.38:408][132]LogFbx: Display: Triangulating static mesh Sphere.011
+[2021.01.27-05.30.38:446][132]LogStaticMesh: Building static mesh waterfall_Sphere_011...
+[2021.01.27-05.30.38:457][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_011.waterfall_Sphere_011
+[2021.01.27-05.30.38:460][132]LogStaticMesh: Warning: waterfall_Sphere_011 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.38:460][132]LogStaticMesh: Warning: waterfall_Sphere_011 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.38:468][132]LogFbx: Display: Triangulating static mesh Sphere.010
+[2021.01.27-05.30.38:506][132]LogStaticMesh: Building static mesh waterfall_Sphere_010...
+[2021.01.27-05.30.38:520][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_010.waterfall_Sphere_010
+[2021.01.27-05.30.38:523][132]LogStaticMesh: Warning: waterfall_Sphere_010 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.38:523][132]LogStaticMesh: Warning: waterfall_Sphere_010 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.38:552][132]LogFbx: Display: Triangulating static mesh Sphere.009
+[2021.01.27-05.30.38:588][132]LogStaticMesh: Building static mesh waterfall_Sphere_009...
+[2021.01.27-05.30.38:600][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_009.waterfall_Sphere_009
+[2021.01.27-05.30.38:603][132]LogStaticMesh: Warning: waterfall_Sphere_009 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.38:603][132]LogStaticMesh: Warning: waterfall_Sphere_009 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.38:611][132]LogFbx: Display: Triangulating static mesh Sphere.008
+[2021.01.27-05.30.38:649][132]LogStaticMesh: Building static mesh waterfall_Sphere_008...
+[2021.01.27-05.30.38:661][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_008.waterfall_Sphere_008
+[2021.01.27-05.30.38:663][132]LogStaticMesh: Warning: waterfall_Sphere_008 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.38:663][132]LogStaticMesh: Warning: waterfall_Sphere_008 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.38:671][132]LogFbx: Display: Triangulating static mesh Sphere.007
+[2021.01.27-05.30.38:711][132]LogStaticMesh: Building static mesh waterfall_Sphere_007...
+[2021.01.27-05.30.38:726][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_007.waterfall_Sphere_007
+[2021.01.27-05.30.38:728][132]LogStaticMesh: Warning: waterfall_Sphere_007 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.38:728][132]LogStaticMesh: Warning: waterfall_Sphere_007 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.38:737][132]LogFbx: Display: Triangulating static mesh Sphere.006
+[2021.01.27-05.30.38:775][132]LogMeshUtilities: Finished distance field build in 1.8s - 34x36x32 distance field, 124 triangles, Range [-0.4, 1.0], waterfall_Cylinder_062
+[2021.01.27-05.30.38:775][132]LogStaticMesh: Building static mesh waterfall_Sphere_006...
+[2021.01.27-05.30.38:789][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_006.waterfall_Sphere_006
+[2021.01.27-05.30.38:792][132]LogStaticMesh: Warning: waterfall_Sphere_006 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.38:792][132]LogStaticMesh: Warning: waterfall_Sphere_006 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.38:810][132]LogMaterial: Display: Missing cached shader map for material Material_020, compiling. 
+[2021.01.27-05.30.38:824][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_007 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.38:824][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_007
+[2021.01.27-05.30.38:831][132]LogFbx: Display: Triangulating static mesh Plane.005
+[2021.01.27-05.30.38:841][132]LogStaticMesh: Building static mesh waterfall_Plane_005...
+[2021.01.27-05.30.38:842][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Plane_005.waterfall_Plane_005
+[2021.01.27-05.30.38:857][132]LogMeshUtilities: Discarded distance field for waterfall_Sphere_006 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.01.27-05.30.38:857][132]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x9 distance field, 960 triangles, Range [-0.4, 0.9], waterfall_Sphere_006
+[2021.01.27-05.30.38:859][132]LogMaterial: Display: Missing cached shader map for material Material_019, compiling. 
+[2021.01.27-05.30.38:878][132]LogFbx: Display: Triangulating static mesh Plane.004
+[2021.01.27-05.30.38:893][132]LogStaticMesh: Building static mesh waterfall_Plane_004...
+[2021.01.27-05.30.38:893][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Plane_004.waterfall_Plane_004
+[2021.01.27-05.30.38:902][132]LogMaterial: Display: Missing cached shader map for material Material_018, compiling. 
+[2021.01.27-05.30.38:921][132]LogFbx: Display: Triangulating static mesh Plane.003
+[2021.01.27-05.30.38:935][132]LogStaticMesh: Building static mesh waterfall_Plane_003...
+[2021.01.27-05.30.38:936][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Plane_003.waterfall_Plane_003
+[2021.01.27-05.30.38:952][132]LogMaterial: Display: Missing cached shader map for material Material_017, compiling. 
+[2021.01.27-05.30.38:970][132]LogFbx: Display: Triangulating static mesh Plane.002
+[2021.01.27-05.30.38:981][132]LogStaticMesh: Building static mesh waterfall_Plane_002...
+[2021.01.27-05.30.38:981][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Plane_002.waterfall_Plane_002
+[2021.01.27-05.30.38:991][132]LogMaterial: Display: Missing cached shader map for material Material_015, compiling. 
+[2021.01.27-05.30.39:012][132]LogFbx: Display: Triangulating static mesh Plane.001
+[2021.01.27-05.30.39:023][132]LogStaticMesh: Building static mesh waterfall_Plane_001...
+[2021.01.27-05.30.39:023][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Plane_001.waterfall_Plane_001
+[2021.01.27-05.30.39:033][132]LogMaterial: Display: Missing cached shader map for material Material_016, compiling. 
+[2021.01.27-05.30.39:049][132]LogFbx: Display: Triangulating static mesh Plane
+[2021.01.27-05.30.39:059][132]LogStaticMesh: Building static mesh waterfall_Plane...
+[2021.01.27-05.30.39:060][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Plane.waterfall_Plane
+[2021.01.27-05.30.39:066][132]LogFbx: Display: Triangulating static mesh Cylinder.032
+[2021.01.27-05.30.39:070][132]LogStaticMesh: Building static mesh waterfall_Cylinder_032...
+[2021.01.27-05.30.39:072][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_032.waterfall_Cylinder_032
+[2021.01.27-05.30.39:079][132]LogFbx: Display: Triangulating static mesh Cylinder.031
+[2021.01.27-05.30.39:082][132]LogStaticMesh: Building static mesh waterfall_Cylinder_031...
+[2021.01.27-05.30.39:084][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_031.waterfall_Cylinder_031
+[2021.01.27-05.30.39:092][132]LogFbx: Display: Triangulating static mesh Cylinder.030
+[2021.01.27-05.30.39:096][132]LogStaticMesh: Building static mesh waterfall_Cylinder_030...
+[2021.01.27-05.30.39:097][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_030.waterfall_Cylinder_030
+[2021.01.27-05.30.39:104][132]LogFbx: Display: Triangulating static mesh Cylinder.029
+[2021.01.27-05.30.39:108][132]LogStaticMesh: Building static mesh waterfall_Cylinder_029...
+[2021.01.27-05.30.39:110][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_029.waterfall_Cylinder_029
+[2021.01.27-05.30.39:117][132]LogFbx: Display: Triangulating static mesh Cylinder.028
+[2021.01.27-05.30.39:121][132]LogStaticMesh: Building static mesh waterfall_Cylinder_028...
+[2021.01.27-05.30.39:123][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_028.waterfall_Cylinder_028
+[2021.01.27-05.30.39:140][132]LogFbx: Display: Triangulating static mesh Cylinder.027
+[2021.01.27-05.30.39:144][132]LogStaticMesh: Building static mesh waterfall_Cylinder_027...
+[2021.01.27-05.30.39:146][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_027.waterfall_Cylinder_027
+[2021.01.27-05.30.39:153][132]LogFbx: Display: Triangulating static mesh Cylinder.026
+[2021.01.27-05.30.39:157][132]LogStaticMesh: Building static mesh waterfall_Cylinder_026...
+[2021.01.27-05.30.39:159][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_026.waterfall_Cylinder_026
+[2021.01.27-05.30.39:171][132]LogFbx: Display: Triangulating static mesh Cylinder.025
+[2021.01.27-05.30.39:176][132]LogStaticMesh: Building static mesh waterfall_Cylinder_025...
+[2021.01.27-05.30.39:178][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_025.waterfall_Cylinder_025
+[2021.01.27-05.30.39:201][132]LogMaterial: Display: Missing cached shader map for material Untitled, compiling. 
+[2021.01.27-05.30.39:222][132]LogFbx: Display: Triangulating static mesh Cylinder.024
+[2021.01.27-05.30.39:233][132]LogStaticMesh: Building static mesh waterfall_Cylinder_024...
+[2021.01.27-05.30.39:234][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_024.waterfall_Cylinder_024
+[2021.01.27-05.30.39:244][132]LogFbx: Display: Triangulating static mesh Sphere.005
+[2021.01.27-05.30.39:283][132]LogStaticMesh: Building static mesh waterfall_Sphere_005...
+[2021.01.27-05.30.39:296][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_005.waterfall_Sphere_005
+[2021.01.27-05.30.39:298][132]LogStaticMesh: Warning: waterfall_Sphere_005 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.39:298][132]LogStaticMesh: Warning: waterfall_Sphere_005 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.39:305][132]LogFbx: Display: Triangulating static mesh Sphere.004
+[2021.01.27-05.30.39:342][132]LogStaticMesh: Building static mesh waterfall_Sphere_004...
+[2021.01.27-05.30.39:353][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_004.waterfall_Sphere_004
+[2021.01.27-05.30.39:355][132]LogStaticMesh: Warning: waterfall_Sphere_004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.39:356][132]LogStaticMesh: Warning: waterfall_Sphere_004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.39:363][132]LogFbx: Display: Triangulating static mesh Sphere.003
+[2021.01.27-05.30.39:401][132]LogStaticMesh: Building static mesh waterfall_Sphere_003...
+[2021.01.27-05.30.39:414][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_003.waterfall_Sphere_003
+[2021.01.27-05.30.39:417][132]LogStaticMesh: Warning: waterfall_Sphere_003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.39:417][132]LogStaticMesh: Warning: waterfall_Sphere_003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.39:426][132]LogFbx: Display: Triangulating static mesh Sphere.002
+[2021.01.27-05.30.39:470][132]LogStaticMesh: Building static mesh waterfall_Sphere_002...
+[2021.01.27-05.30.39:482][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_002.waterfall_Sphere_002
+[2021.01.27-05.30.39:484][132]LogStaticMesh: Warning: waterfall_Sphere_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.39:484][132]LogStaticMesh: Warning: waterfall_Sphere_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.39:494][132]LogFbx: Display: Triangulating static mesh Sphere.001
+[2021.01.27-05.30.39:530][132]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 161
+[2021.01.27-05.30.39:530][132]LogStaticMesh: Building static mesh waterfall_Sphere_001...
+[2021.01.27-05.30.39:543][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere_001.waterfall_Sphere_001
+[2021.01.27-05.30.39:546][132]LogStaticMesh: Warning: waterfall_Sphere_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.39:546][132]LogStaticMesh: Warning: waterfall_Sphere_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.39:736][132]LogFbx: Display: Triangulating static mesh Sphere
+[2021.01.27-05.30.39:788][132]LogStaticMesh: Building static mesh waterfall_Sphere...
+[2021.01.27-05.30.39:800][132]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/waterfall_Sphere.waterfall_Sphere
+[2021.01.27-05.30.39:802][132]LogStaticMesh: Warning: waterfall_Sphere has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.39:802][132]LogStaticMesh: Warning: waterfall_Sphere has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.39:817][132]LogMaterial: Display: Missing cached shader map for material rock_001, compiling. 
+[2021.01.27-05.30.39:835][132]LogFbx: Display: Triangulating static mesh Cylinder.022
+[2021.01.27-05.30.39:847][132]LogStaticMesh: Building static mesh waterfall_Cylinder_022...
+[2021.01.27-05.30.39:848][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_022.waterfall_Cylinder_022
+[2021.01.27-05.30.39:863][132]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2021.01.27-05.30.39:882][132]LogFbx: Display: Triangulating static mesh Cylinder.021
+[2021.01.27-05.30.39:894][132]LogStaticMesh: Building static mesh waterfall_Cylinder_021...
+[2021.01.27-05.30.39:894][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_021.waterfall_Cylinder_021
+[2021.01.27-05.30.39:901][132]LogFbx: Display: Triangulating static mesh Cylinder.020
+[2021.01.27-05.30.39:904][132]LogStaticMesh: Building static mesh waterfall_Cylinder_020...
+[2021.01.27-05.30.39:905][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_020.waterfall_Cylinder_020
+[2021.01.27-05.30.39:915][132]LogFbx: Display: Triangulating static mesh Cylinder.019
+[2021.01.27-05.30.39:917][132]LogStaticMesh: Building static mesh waterfall_Cylinder_019...
+[2021.01.27-05.30.39:918][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_019.waterfall_Cylinder_019
+[2021.01.27-05.30.39:928][132]LogFbx: Display: Triangulating static mesh Cylinder.018
+[2021.01.27-05.30.39:931][132]LogStaticMesh: Building static mesh waterfall_Cylinder_018...
+[2021.01.27-05.30.39:932][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_018.waterfall_Cylinder_018
+[2021.01.27-05.30.39:939][132]LogFbx: Display: Triangulating static mesh Cylinder.017
+[2021.01.27-05.30.39:942][132]LogStaticMesh: Building static mesh waterfall_Cylinder_017...
+[2021.01.27-05.30.39:943][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_017.waterfall_Cylinder_017
+[2021.01.27-05.30.39:950][132]LogFbx: Display: Triangulating static mesh Cylinder.016
+[2021.01.27-05.30.39:954][132]LogStaticMesh: Building static mesh waterfall_Cylinder_016...
+[2021.01.27-05.30.39:956][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_016.waterfall_Cylinder_016
+[2021.01.27-05.30.39:962][132]LogFbx: Display: Triangulating static mesh Cylinder.015
+[2021.01.27-05.30.39:964][132]LogStaticMesh: Building static mesh waterfall_Cylinder_015...
+[2021.01.27-05.30.39:965][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_015.waterfall_Cylinder_015
+[2021.01.27-05.30.39:984][132]LogFbx: Display: Triangulating static mesh Cylinder.014
+[2021.01.27-05.30.39:989][132]LogStaticMesh: Building static mesh waterfall_Cylinder_014...
+[2021.01.27-05.30.39:990][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_014.waterfall_Cylinder_014
+[2021.01.27-05.30.40:019][132]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2021.01.27-05.30.40:034][132]LogFbx: Display: Triangulating static mesh Cylinder.013
+[2021.01.27-05.30.40:045][132]LogStaticMesh: Building static mesh waterfall_Cylinder_013...
+[2021.01.27-05.30.40:048][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_013.waterfall_Cylinder_013
+[2021.01.27-05.30.40:062][132]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 196
+[2021.01.27-05.30.40:062][132]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2021.01.27-05.30.40:078][132]LogFbx: Display: Triangulating static mesh Cylinder.012
+[2021.01.27-05.30.40:090][132]LogStaticMesh: Building static mesh waterfall_Cylinder_012...
+[2021.01.27-05.30.40:091][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_012.waterfall_Cylinder_012
+[2021.01.27-05.30.40:098][132]LogFbx: Display: Triangulating static mesh Cylinder.011
+[2021.01.27-05.30.40:107][132]LogStaticMesh: Building static mesh waterfall_Cylinder_011...
+[2021.01.27-05.30.40:110][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_011.waterfall_Cylinder_011
+[2021.01.27-05.30.40:118][132]LogFbx: Display: Triangulating static mesh Cylinder.010
+[2021.01.27-05.30.40:122][132]LogStaticMesh: Building static mesh waterfall_Cylinder_010...
+[2021.01.27-05.30.40:123][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_010.waterfall_Cylinder_010
+[2021.01.27-05.30.40:130][132]LogFbx: Display: Triangulating static mesh Cylinder.009
+[2021.01.27-05.30.40:132][132]LogStaticMesh: Building static mesh waterfall_Cylinder_009...
+[2021.01.27-05.30.40:134][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_009.waterfall_Cylinder_009
+[2021.01.27-05.30.40:141][132]LogFbx: Display: Triangulating static mesh Cylinder.008
+[2021.01.27-05.30.40:144][132]LogStaticMesh: Building static mesh waterfall_Cylinder_008...
+[2021.01.27-05.30.40:145][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_008.waterfall_Cylinder_008
+[2021.01.27-05.30.40:151][132]LogFbx: Display: Triangulating static mesh Cylinder.007
+[2021.01.27-05.30.40:154][132]LogStaticMesh: Building static mesh waterfall_Cylinder_007...
+[2021.01.27-05.30.40:155][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_007.waterfall_Cylinder_007
+[2021.01.27-05.30.40:173][132]LogFbx: Display: Triangulating static mesh Cylinder.006
+[2021.01.27-05.30.40:176][132]LogStaticMesh: Building static mesh waterfall_Cylinder_006...
+[2021.01.27-05.30.40:177][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_006.waterfall_Cylinder_006
+[2021.01.27-05.30.40:184][132]LogFbx: Display: Triangulating static mesh Cylinder.005
+[2021.01.27-05.30.40:187][132]LogStaticMesh: Building static mesh waterfall_Cylinder_005...
+[2021.01.27-05.30.40:188][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_005.waterfall_Cylinder_005
+[2021.01.27-05.30.40:196][132]LogFbx: Display: Triangulating static mesh Cylinder.004
+[2021.01.27-05.30.40:199][132]LogStaticMesh: Building static mesh waterfall_Cylinder_004...
+[2021.01.27-05.30.40:200][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_004.waterfall_Cylinder_004
+[2021.01.27-05.30.40:214][132]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2021.01.27-05.30.40:230][132]LogFbx: Display: Triangulating static mesh Cylinder.003
+[2021.01.27-05.30.40:241][132]LogStaticMesh: Building static mesh waterfall_Cylinder_003...
+[2021.01.27-05.30.40:242][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_003.waterfall_Cylinder_003
+[2021.01.27-05.30.40:248][132]LogFbx: Display: Triangulating static mesh Cylinder.002
+[2021.01.27-05.30.40:252][132]LogStaticMesh: Building static mesh waterfall_Cylinder_002...
+[2021.01.27-05.30.40:253][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_002.waterfall_Cylinder_002
+[2021.01.27-05.30.40:259][132]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2021.01.27-05.30.40:262][132]LogStaticMesh: Building static mesh waterfall_Cylinder_001...
+[2021.01.27-05.30.40:263][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder_001.waterfall_Cylinder_001
+[2021.01.27-05.30.40:282][132]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2021.01.27-05.30.40:298][132]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.01.27-05.30.40:310][132]LogStaticMesh: Building static mesh waterfall_Cylinder...
+[2021.01.27-05.30.40:311][132]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/waterfall_Cylinder.waterfall_Cylinder
+[2021.01.27-05.30.40:312][132]LogStaticMesh: Warning: waterfall_Cylinder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.27-05.30.40:312][132]LogStaticMesh: Warning: waterfall_Cylinder has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.27-05.30.41:413][132]LogMeshUtilities: Finished distance field build in 2.6s - 64x18x64 distance field, 2 triangles, Range [-0.0, 1.0], waterfall_Plane_005
+[2021.01.27-05.30.44:517][132]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 231
+[2021.01.27-05.30.44:517][132]LogMeshUtilities: Finished distance field build in 3.1s - 64x64x27 distance field, 92 triangles, Range [-0.1, 1.0], waterfall_Cylinder
+[2021.01.27-05.30.49:530][132]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 221
+[2021.01.27-05.30.49:530][132]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 211
+[2021.01.27-05.30.49:530][132]LogMeshUtilities: Finished distance field build in 5.0s - 42x64x52 distance field, 62 triangles, Range [-0.3, 0.8], waterfall_Cylinder_001
+[2021.01.27-05.30.54:861][132]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 201
+[2021.01.27-05.30.54:861][132]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 191
+[2021.01.27-05.30.54:861][132]LogMeshUtilities: Finished distance field build in 5.3s - 42x64x52 distance field, 62 triangles, Range [-0.3, 0.8], waterfall_Cylinder_002
+[2021.01.27-05.30.57:773][132]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 181
+[2021.01.27-05.30.57:773][132]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 171
+[2021.01.27-05.30.57:773][132]LogMeshUtilities: Finished distance field build in 2.9s - 36x40x52 distance field, 67 triangles, Range [-0.4, 1.0], waterfall_Cylinder_003
+[2021.01.27-05.31.01:184][132]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 161
+[2021.01.27-05.31.01:184][132]LogMeshUtilities: Finished distance field build in 3.4s - 42x35x60 distance field, 84 triangles, Range [-0.3, 0.9], waterfall_Cylinder_004
+[2021.01.27-05.31.03:474][132]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 151
+[2021.01.27-05.31.03:474][132]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 141
+[2021.01.27-05.31.03:474][132]LogMeshUtilities: Finished distance field build in 2.3s - 40x35x38 distance field, 84 triangles, Range [-0.4, 1.0], waterfall_Cylinder_005
+[2021.01.27-05.31.08:915][132]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 131
+[2021.01.27-05.31.08:915][132]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 121
+[2021.01.27-05.31.08:915][132]LogMeshUtilities: Finished distance field build in 5.5s - 42x64x52 distance field, 62 triangles, Range [-0.3, 0.8], waterfall_Cylinder_006
+[2021.01.27-05.31.12:417][132]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 111
+[2021.01.27-05.31.12:417][132]LogMeshUtilities: Finished distance field build in 3.5s - 48x48x44 distance field, 83 triangles, Range [-0.5, 1.0], waterfall_Cylinder_007
+[2021.01.27-05.31.22:064][132]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 101
+[2021.01.27-05.31.22:064][132]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 91
+[2021.01.27-05.31.22:064][132]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 81
+[2021.01.27-05.31.22:064][132]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 71
+[2021.01.27-05.31.22:064][132]LogMeshUtilities: Finished distance field build in 9.6s - 53x64x64 distance field, 62 triangles, Range [-0.3, 0.8], waterfall_Cylinder_008
+[2021.01.27-05.31.26:180][132]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2021.01.27-05.31.26:180][132]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2021.01.27-05.31.26:180][132]LogMeshUtilities: Finished distance field build in 4.1s - 48x48x44 distance field, 83 triangles, Range [-0.5, 1.0], waterfall_Cylinder_009
+[2021.01.27-05.31.28:688][132]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2021.01.27-05.31.28:688][132]LogMeshUtilities: Finished distance field build in 2.5s - 40x35x38 distance field, 84 triangles, Range [-0.4, 1.0], waterfall_Cylinder_010
+[2021.01.27-05.31.37:330][132]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2021.01.27-05.31.37:330][132]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.01.27-05.31.37:330][132]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.01.27-05.31.37:330][132]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.01.27-05.31.37:330][132]LogMeshUtilities: Finished distance field build in 8.6s - 48x64x60 distance field, 221 triangles, Range [-0.2, 0.6], waterfall_Cylinder_011
+[2021.01.27-05.31.41:261][132]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.01.27-05.31.41:261][132]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.01.27-05.31.41:261][132]LogMeshUtilities: Finished distance field build in 4.0s - 48x48x44 distance field, 83 triangles, Range [-0.5, 1.0], waterfall_Cylinder_012
+[2021.01.27-05.31.46:678][132]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.01.27-05.31.46:678][132]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.01.27-05.31.46:678][132]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.27-05.31.46:678][132]LogMeshUtilities: Finished distance field build in 5.4s - 48x64x60 distance field, 221 triangles, Range [-0.2, 0.6], waterfall_Cylinder_013
+[2021.01.27-05.31.50:377][132]LogMeshUtilities: Finished distance field build in 3.7s - 44x64x52 distance field, 62 triangles, Range [-0.2, 0.6], waterfall_Cylinder_014
+[2021.01.27-05.31.51:799][132]LogMeshUtilities: Finished distance field build in 1.4s - 40x35x38 distance field, 84 triangles, Range [-0.4, 1.0], waterfall_Cylinder_015
+[2021.01.27-05.31.53:347][132]LogMeshUtilities: Finished distance field build in 1.6s - 40x35x38 distance field, 84 triangles, Range [-0.4, 1.0], waterfall_Cylinder_016
+[2021.01.27-05.31.54:780][132]LogMeshUtilities: Finished distance field build in 1.4s - 40x35x38 distance field, 84 triangles, Range [-0.4, 1.0], waterfall_Cylinder_017
+[2021.01.27-05.31.58:124][132]LogMeshUtilities: Finished distance field build in 3.3s - 40x64x49 distance field, 62 triangles, Range [-0.3, 0.8], waterfall_Cylinder_018
+[2021.01.27-05.32.01:513][132]LogMeshUtilities: Finished distance field build in 3.4s - 40x64x49 distance field, 62 triangles, Range [-0.3, 0.8], waterfall_Cylinder_019
+[2021.01.27-05.32.02:512][132]LogMeshUtilities: Finished distance field build in 1.0s - 25x48x33 distance field, 62 triangles, Range [-0.3, 0.8], waterfall_Cylinder_020
+[2021.01.27-05.32.03:554][132]LogMeshUtilities: Finished distance field build in 1.0s - 25x48x33 distance field, 62 triangles, Range [-0.3, 0.8], waterfall_Cylinder_021
+[2021.01.27-05.32.04:977][132]LogMeshUtilities: Finished distance field build in 1.4s - 39x35x39 distance field, 84 triangles, Range [-0.4, 1.0], waterfall_Cylinder_022
+[2021.01.27-05.32.05:106][132]LogMeshUtilities: Finished distance field build in 0.1s - 17x17x17 distance field, 960 triangles, Range [-0.2, 1.0], waterfall_Sphere
+[2021.01.27-05.32.05:245][132]LogMeshUtilities: Finished distance field build in 0.1s - 17x17x17 distance field, 960 triangles, Range [-0.2, 1.0], waterfall_Sphere_001
+[2021.01.27-05.32.05:394][132]LogMeshUtilities: Finished distance field build in 0.1s - 17x17x17 distance field, 960 triangles, Range [-0.2, 1.0], waterfall_Sphere_002
+[2021.01.27-05.32.05:533][132]LogMeshUtilities: Finished distance field build in 0.1s - 17x17x17 distance field, 960 triangles, Range [-0.2, 1.0], waterfall_Sphere_003
+[2021.01.27-05.32.05:685][132]LogMeshUtilities: Finished distance field build in 0.1s - 17x17x17 distance field, 960 triangles, Range [-0.2, 1.0], waterfall_Sphere_004
+[2021.01.27-05.32.05:824][132]LogMeshUtilities: Finished distance field build in 0.1s - 17x17x17 distance field, 960 triangles, Range [-0.2, 1.0], waterfall_Sphere_005
+[2021.01.27-05.32.08:349][132]LogMeshUtilities: Finished distance field build in 2.5s - 42x35x60 distance field, 84 triangles, Range [-0.3, 0.9], waterfall_Cylinder_024
+[2021.01.27-05.32.08:744][132]LogMeshUtilities: Finished distance field build in 0.4s - 25x25x24 distance field, 124 triangles, Range [-0.5, 0.9], waterfall_Cylinder_025
+[2021.01.27-05.32.08:981][132]LogMeshUtilities: Finished distance field build in 0.2s - 20x20x19 distance field, 124 triangles, Range [-0.5, 0.9], waterfall_Cylinder_026
+[2021.01.27-05.32.09:035][132]LogMeshUtilities: Finished distance field build in 0.1s - 13x14x12 distance field, 124 triangles, Range [-0.4, 0.9], waterfall_Cylinder_027
+[2021.01.27-05.32.09:133][132]LogMeshUtilities: Finished distance field build in 0.1s - 16x15x14 distance field, 124 triangles, Range [-0.5, 0.8], waterfall_Cylinder_028
+[2021.01.27-05.32.09:240][132]LogMeshUtilities: Finished distance field build in 0.1s - 16x15x14 distance field, 124 triangles, Range [-0.5, 0.8], waterfall_Cylinder_029
+[2021.01.27-05.32.09:584][132]LogMeshUtilities: Finished distance field build in 0.3s - 23x25x21 distance field, 124 triangles, Range [-0.4, 0.9], waterfall_Cylinder_030
+[2021.01.27-05.32.10:728][132]LogMeshUtilities: Finished distance field build in 1.1s - 34x36x32 distance field, 124 triangles, Range [-0.4, 1.0], waterfall_Cylinder_031
+[2021.01.27-05.32.11:123][132]LogMeshUtilities: Finished distance field build in 0.4s - 25x25x24 distance field, 124 triangles, Range [-0.5, 0.9], waterfall_Cylinder_032
+[2021.01.27-05.32.13:166][132]LogMeshUtilities: Finished distance field build in 2.0s - 64x20x64 distance field, 2 triangles, Range [-0.0, 1.0], waterfall_Plane
+[2021.01.27-05.32.13:851][132]LogMeshUtilities: Finished distance field build in 0.7s - 59x8x59 distance field, 2 triangles, Range [-0.1, 1.0], waterfall_Plane_001
+[2021.01.27-05.32.14:843][132]LogMeshUtilities: Finished distance field build in 1.0s - 64x9x64 distance field, 2 triangles, Range [-0.1, 1.0], waterfall_Plane_002
