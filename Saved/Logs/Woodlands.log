@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 01/19/21 14:45:51
 LogInit: Display: Running engine for game: Woodlands
 LogPlatformFile: Not using cached read wrapper
@@ -7,6 +8,16 @@ LogStats: Stats thread started at 0.181676
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Warning: Engine version string in ../../../../../../Users/skaffenb/Desktop/Woodlands/Plugins/VoxelFree/VoxelFree.uplugin could not be parsed ("ANY_VERSION")
+=======
+﻿Log file open, 01/26/21 19:14:21
+LogInit: Display: Running engine for game: Woodlands
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 8.179414
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Warning: Engine version string in C:/Users/draco/Documents/GitHub/Woodlands/Plugins/VoxelFree/VoxelFree.uplugin could not be parsed ("ANY_VERSION")
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 01/26/21 19:14:21
 LogInit: Display: Running engine for game: Woodlands
@@ -152,6 +163,7 @@ LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL
 LogVoxel: VOXEL_DEBUG=0
 LogVoxel: Testing compression on 0.000122MB
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogVoxel: Compressed 0.000122 MB in 0.000080s (1.529703 MB/s). Compressed Size: 0.000133 MB (108.593750%). Compression: 0.000076s (94.611529%). Num Chunks: 1.
 LogVoxel: Decompressed 0.000122 MB in 0.000011s (11.199112 MB/s). Compressed Size: 0.000133 MB (108.593750%). Decompression: 0.000011s (97.247685%). Num Chunks: 1.
 LogVoxel: Testing compression on 0.000122MB
@@ -178,12 +190,30 @@ LogInit: Net CL: 13144385
 LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060
 LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
 >>>>>>> Stashed changes
+=======
+LogVoxel: Compressed 0.000122 MB in 0.000286s (0.426670 MB/s). Compressed Size: 0.000133 MB (108.593750%). Compression: 0.000276s (96.399861%). Num Chunks: 1.
+LogVoxel: Decompressed 0.000122 MB in 0.000010s (12.715657 MB/s). Compressed Size: 0.000133 MB (108.593750%). Decompression: 0.000009s (95.833302%). Num Chunks: 1.
+LogVoxel: Testing compression on 0.000122MB
+LogVoxel: Compressed 0.000122 MB in 0.000023s (5.284429 MB/s). Compressed Size: 0.000133 MB (108.593750%). Compression: 0.000023s (97.835481%). Num Chunks: 1.
+LogVoxel: Decompressed 0.000122 MB in 0.000001s (101.725103 MB/s). Compressed Size: 0.000133 MB (108.593750%). Decompression: 0.000001s (91.666616%). Num Chunks: 1.
+LogConfig: Applying CVar settings from Section [/Script/Voxel.VoxelSettings] File [C:/Users/draco/Documents/GitHub/Woodlands/Saved/Config/Windows/Engine.ini]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+>>>>>>> Stashed changes
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.25
 LogInit: Command Line: 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+=======
+LogInit: Base Directory: D:/Epic Games/UE_4.25/Engine/Binaries/Win64/
+>>>>>>> Stashed changes
 =======
 LogInit: Base Directory: D:/Epic Games/UE_4.25/Engine/Binaries/Win64/
 >>>>>>> Stashed changes
@@ -218,7 +248,11 @@ LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C05
 LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/skaffenb/Desktop/Woodlands/Saved/Config/Windows/Engine.ini]
+=======
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/draco/Documents/GitHub/Woodlands/Saved/Config/Windows/Engine.ini]
+>>>>>>> Stashed changes
 =======
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/draco/Documents/GitHub/Woodlands/Saved/Config/Windows/Engine.ini]
 >>>>>>> Stashed changes
@@ -239,6 +273,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2021.01.19-19.45.51:795][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.01.19-19.45.51:795][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1447,6 +1482,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.19-20.15.05:336][399]LogContentValidation: Display: Validating World /Game/Mechanicals/Maps/TowerDefense.TowerDefense
 [2021.01.19-20.15.05:336][399]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AIEnemy.AIEnemy
 =======
+=======
+>>>>>>> Stashed changes
 [2021.01.27-00.14.27:246][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.01.27-00.14.27:246][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.01.27-00.14.27:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/draco/Documents/GitHub/Woodlands/Saved/Config/Windows/Engine.ini]
@@ -5274,4 +5311,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.27-01.23.35:172][286]LogD3D11RHI: CleanupD3DDevice
 [2021.01.27-01.23.35:233][286]LogExit: Exiting.
 [2021.01.27-01.23.35:357][286]Log file closed, 01/26/21 20:23:35
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
