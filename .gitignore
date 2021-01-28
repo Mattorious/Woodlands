@@ -2,7 +2,4 @@ DerivedDataCache/*
 Saved/*
 Intermediate/*
 WindowsNoEditor/*
-*.pdb
-Intermediate/CachedAssetRegistry.bin
-Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Saved/Logs/Woodlands.log
+
