@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VoxelHelpers.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\Woodlands\Intermediate\Build\Win64\WoodlandsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelHelpers\Module.VoxelHelpers.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelHelpers\Module.VoxelHelpers.gen.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelHelpers\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelHelpers\UE4Editor-VoxelHelpers.lib"
+/INCLUDE:IMPLEMENT_MODULE_VoxelHelpers

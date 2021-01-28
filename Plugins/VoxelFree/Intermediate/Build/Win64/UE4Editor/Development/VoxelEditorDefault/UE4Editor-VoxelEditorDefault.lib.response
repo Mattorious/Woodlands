@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VoxelEditorDefault.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\Woodlands\Intermediate\Build\Win64\WoodlandsEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelEditorDefault\Module.VoxelEditorDefault.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelEditorDefault\Module.VoxelEditorDefault.gen.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelEditorDefault\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelEditorDefault\UE4Editor-VoxelEditorDefault.lib"
+/INCLUDE:IMPLEMENT_MODULE_VoxelEditorDefault

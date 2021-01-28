@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VoxelHelpers.cpp.obj": [
+			"MaterialExpressionBlendMaterialAttributesBarycentric.cpp.obj",
+			"MaterialExpressionPack.cpp.obj",
+			"VoxelColorWheel.cpp.obj",
+			"VoxelHelpersLibrary.cpp.obj",
+			"VoxelHelpersModule.cpp.obj"
+		],
+		"Module.VoxelHelpers.gen.cpp.obj": [
+			"MaterialExpressionBlendMaterialAttributesBarycentric.gen.cpp.obj",
+			"MaterialExpressionPack.gen.cpp.obj",
+			"VoxelColorWheel.gen.cpp.obj",
+			"VoxelHelpers.init.gen.cpp.obj",
+			"VoxelHelpersLibrary.gen.cpp.obj"
+		]
+	}
+}

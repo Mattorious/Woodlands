@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Voxel.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\Woodlands\Intermediate\Build\Win64\WoodlandsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Module.Voxel.1_of_3.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Module.Voxel.2_of_3.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Module.Voxel.3_of_3.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Module.Voxel.gen.1_of_9.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Module.Voxel.gen.2_of_9.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Module.Voxel.gen.3_of_9.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Module.Voxel.gen.4_of_9.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Module.Voxel.gen.5_of_9.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Module.Voxel.gen.6_of_9.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Module.Voxel.gen.7_of_9.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Module.Voxel.gen.8_of_9.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Module.Voxel.gen.9_of_9.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\Voxel\UE4Editor-Voxel.lib"
+/INCLUDE:IMPLEMENT_MODULE_Voxel

@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VoxelGraph.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\Woodlands\Intermediate\Build\Win64\WoodlandsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelGraph\Module.VoxelGraph.1_of_3.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelGraph\Module.VoxelGraph.2_of_3.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelGraph\Module.VoxelGraph.3_of_3.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelGraph\Module.VoxelGraph.gen.1_of_4.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelGraph\Module.VoxelGraph.gen.2_of_4.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelGraph\Module.VoxelGraph.gen.3_of_4.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelGraph\Module.VoxelGraph.gen.4_of_4.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelGraph\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelGraph\UE4Editor-VoxelGraph.lib"
+/INCLUDE:IMPLEMENT_MODULE_VoxelGraph

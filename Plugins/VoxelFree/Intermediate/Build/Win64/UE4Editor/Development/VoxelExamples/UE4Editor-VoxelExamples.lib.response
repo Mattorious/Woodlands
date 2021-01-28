@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VoxelExamples.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\Woodlands\Intermediate\Build\Win64\WoodlandsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelExamples\Module.VoxelExamples.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelExamples\Module.VoxelExamples.gen.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelExamples\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\Woodlands\Plugins\VoxelFree\Intermediate\Build\Win64\UE4Editor\Development\VoxelExamples\UE4Editor-VoxelExamples.lib"
+/INCLUDE:IMPLEMENT_MODULE_VoxelExamples

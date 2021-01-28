@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VoxelEditorDefault.cpp.obj": [
+			"ActorFactoryVoxelMagicaVoxScene.cpp.obj",
+			"ActorFactoryVoxelPlaceableItems.cpp.obj",
+			"ActorFactoryVoxelWorld.cpp.obj",
+			"VoxelEditorDefaultModule.cpp.obj"
+		],
+		"Module.VoxelEditorDefault.gen.cpp.obj": [
+			"ActorFactoryVoxelMagicaVoxScene.gen.cpp.obj",
+			"ActorFactoryVoxelMeshImporter.gen.cpp.obj",
+			"ActorFactoryVoxelPlaceableItems.gen.cpp.obj",
+			"ActorFactoryVoxelWorld.gen.cpp.obj",
+			"VoxelEditorDefault.init.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VoxelExamples.cpp.obj": [
+			"VoxelExamplesModule.cpp.obj",
+			"VoxelGeneratorExample.cpp.obj"
+		],
+		"Module.VoxelExamples.gen.cpp.obj": [
+			"VoxelExamples.init.gen.cpp.obj",
+			"VoxelExamplesModule.gen.cpp.obj"
+		]
+	}
+}

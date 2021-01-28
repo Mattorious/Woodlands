@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VoxelVDB.cpp.obj": [
+			"VoxelVDBAsset.cpp.obj",
+			"VoxelVDBModule.cpp.obj"
+		],
+		"Module.VoxelVDB.gen.cpp.obj": [
+			"VoxelVDB.init.gen.cpp.obj",
+			"VoxelVDBAsset.gen.cpp.obj"
+		]
+	}
+}

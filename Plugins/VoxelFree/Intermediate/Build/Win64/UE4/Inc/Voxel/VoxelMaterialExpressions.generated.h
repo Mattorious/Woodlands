@@ -1,0 +1,395 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef VOXEL_VoxelMaterialExpressions_generated_h
+#error "VoxelMaterialExpressions.generated.h already included, missing '#pragma once' in VoxelMaterialExpressions.h"
+#endif
+#define VOXEL_VoxelMaterialExpressions_generated_h
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_SPARSE_DATA
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_RPC_WRAPPERS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_RPC_WRAPPERS_NO_PURE_DECLS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMaterialExpressionVoxelLandscapeLayerBlend(); \
+	friend struct Z_Construct_UClass_UMaterialExpressionVoxelLandscapeLayerBlend_Statics; \
+public: \
+	DECLARE_CLASS(UMaterialExpressionVoxelLandscapeLayerBlend, UMaterialExpressionLandscapeLayerBlend, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UMaterialExpressionVoxelLandscapeLayerBlend)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_INCLASS \
+private: \
+	static void StaticRegisterNativesUMaterialExpressionVoxelLandscapeLayerBlend(); \
+	friend struct Z_Construct_UClass_UMaterialExpressionVoxelLandscapeLayerBlend_Statics; \
+public: \
+	DECLARE_CLASS(UMaterialExpressionVoxelLandscapeLayerBlend, UMaterialExpressionLandscapeLayerBlend, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UMaterialExpressionVoxelLandscapeLayerBlend)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerBlend(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMaterialExpressionVoxelLandscapeLayerBlend) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMaterialExpressionVoxelLandscapeLayerBlend); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMaterialExpressionVoxelLandscapeLayerBlend); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerBlend(UMaterialExpressionVoxelLandscapeLayerBlend&&); \
+	NO_API UMaterialExpressionVoxelLandscapeLayerBlend(const UMaterialExpressionVoxelLandscapeLayerBlend&); \
+public:
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerBlend(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerBlend(UMaterialExpressionVoxelLandscapeLayerBlend&&); \
+	NO_API UMaterialExpressionVoxelLandscapeLayerBlend(const UMaterialExpressionVoxelLandscapeLayerBlend&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMaterialExpressionVoxelLandscapeLayerBlend); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMaterialExpressionVoxelLandscapeLayerBlend); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMaterialExpressionVoxelLandscapeLayerBlend)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_PRIVATE_PROPERTY_OFFSET
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_22_PROLOG
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_RPC_WRAPPERS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_INCLASS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_INCLASS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_25_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOXEL_API UClass* StaticClass<class UMaterialExpressionVoxelLandscapeLayerBlend>();
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_SPARSE_DATA
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_RPC_WRAPPERS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_RPC_WRAPPERS_NO_PURE_DECLS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMaterialExpressionVoxelLandscapeLayerSwitch(); \
+	friend struct Z_Construct_UClass_UMaterialExpressionVoxelLandscapeLayerSwitch_Statics; \
+public: \
+	DECLARE_CLASS(UMaterialExpressionVoxelLandscapeLayerSwitch, UMaterialExpressionLandscapeLayerSwitch, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UMaterialExpressionVoxelLandscapeLayerSwitch)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_INCLASS \
+private: \
+	static void StaticRegisterNativesUMaterialExpressionVoxelLandscapeLayerSwitch(); \
+	friend struct Z_Construct_UClass_UMaterialExpressionVoxelLandscapeLayerSwitch_Statics; \
+public: \
+	DECLARE_CLASS(UMaterialExpressionVoxelLandscapeLayerSwitch, UMaterialExpressionLandscapeLayerSwitch, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UMaterialExpressionVoxelLandscapeLayerSwitch)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerSwitch(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMaterialExpressionVoxelLandscapeLayerSwitch) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMaterialExpressionVoxelLandscapeLayerSwitch); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMaterialExpressionVoxelLandscapeLayerSwitch); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerSwitch(UMaterialExpressionVoxelLandscapeLayerSwitch&&); \
+	NO_API UMaterialExpressionVoxelLandscapeLayerSwitch(const UMaterialExpressionVoxelLandscapeLayerSwitch&); \
+public:
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerSwitch(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerSwitch(UMaterialExpressionVoxelLandscapeLayerSwitch&&); \
+	NO_API UMaterialExpressionVoxelLandscapeLayerSwitch(const UMaterialExpressionVoxelLandscapeLayerSwitch&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMaterialExpressionVoxelLandscapeLayerSwitch); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMaterialExpressionVoxelLandscapeLayerSwitch); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMaterialExpressionVoxelLandscapeLayerSwitch)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_PRIVATE_PROPERTY_OFFSET
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_29_PROLOG
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_RPC_WRAPPERS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_INCLASS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_INCLASS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_32_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOXEL_API UClass* StaticClass<class UMaterialExpressionVoxelLandscapeLayerSwitch>();
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_SPARSE_DATA
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_RPC_WRAPPERS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_RPC_WRAPPERS_NO_PURE_DECLS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMaterialExpressionVoxelLandscapeLayerWeight(); \
+	friend struct Z_Construct_UClass_UMaterialExpressionVoxelLandscapeLayerWeight_Statics; \
+public: \
+	DECLARE_CLASS(UMaterialExpressionVoxelLandscapeLayerWeight, UMaterialExpressionLandscapeLayerWeight, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UMaterialExpressionVoxelLandscapeLayerWeight)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_INCLASS \
+private: \
+	static void StaticRegisterNativesUMaterialExpressionVoxelLandscapeLayerWeight(); \
+	friend struct Z_Construct_UClass_UMaterialExpressionVoxelLandscapeLayerWeight_Statics; \
+public: \
+	DECLARE_CLASS(UMaterialExpressionVoxelLandscapeLayerWeight, UMaterialExpressionLandscapeLayerWeight, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UMaterialExpressionVoxelLandscapeLayerWeight)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerWeight(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMaterialExpressionVoxelLandscapeLayerWeight) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMaterialExpressionVoxelLandscapeLayerWeight); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMaterialExpressionVoxelLandscapeLayerWeight); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerWeight(UMaterialExpressionVoxelLandscapeLayerWeight&&); \
+	NO_API UMaterialExpressionVoxelLandscapeLayerWeight(const UMaterialExpressionVoxelLandscapeLayerWeight&); \
+public:
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerWeight(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerWeight(UMaterialExpressionVoxelLandscapeLayerWeight&&); \
+	NO_API UMaterialExpressionVoxelLandscapeLayerWeight(const UMaterialExpressionVoxelLandscapeLayerWeight&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMaterialExpressionVoxelLandscapeLayerWeight); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMaterialExpressionVoxelLandscapeLayerWeight); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMaterialExpressionVoxelLandscapeLayerWeight)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_PRIVATE_PROPERTY_OFFSET
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_36_PROLOG
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_RPC_WRAPPERS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_INCLASS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_RPC_WRAPPERS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_INCLASS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_39_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOXEL_API UClass* StaticClass<class UMaterialExpressionVoxelLandscapeLayerWeight>();
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_SPARSE_DATA
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_RPC_WRAPPERS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_RPC_WRAPPERS_NO_PURE_DECLS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMaterialExpressionVoxelLandscapeLayerSample(); \
+	friend struct Z_Construct_UClass_UMaterialExpressionVoxelLandscapeLayerSample_Statics; \
+public: \
+	DECLARE_CLASS(UMaterialExpressionVoxelLandscapeLayerSample, UMaterialExpressionLandscapeLayerSample, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UMaterialExpressionVoxelLandscapeLayerSample)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_INCLASS \
+private: \
+	static void StaticRegisterNativesUMaterialExpressionVoxelLandscapeLayerSample(); \
+	friend struct Z_Construct_UClass_UMaterialExpressionVoxelLandscapeLayerSample_Statics; \
+public: \
+	DECLARE_CLASS(UMaterialExpressionVoxelLandscapeLayerSample, UMaterialExpressionLandscapeLayerSample, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UMaterialExpressionVoxelLandscapeLayerSample)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerSample(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMaterialExpressionVoxelLandscapeLayerSample) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMaterialExpressionVoxelLandscapeLayerSample); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMaterialExpressionVoxelLandscapeLayerSample); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerSample(UMaterialExpressionVoxelLandscapeLayerSample&&); \
+	NO_API UMaterialExpressionVoxelLandscapeLayerSample(const UMaterialExpressionVoxelLandscapeLayerSample&); \
+public:
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerSample(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMaterialExpressionVoxelLandscapeLayerSample(UMaterialExpressionVoxelLandscapeLayerSample&&); \
+	NO_API UMaterialExpressionVoxelLandscapeLayerSample(const UMaterialExpressionVoxelLandscapeLayerSample&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMaterialExpressionVoxelLandscapeLayerSample); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMaterialExpressionVoxelLandscapeLayerSample); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMaterialExpressionVoxelLandscapeLayerSample)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_PRIVATE_PROPERTY_OFFSET
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_43_PROLOG
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_RPC_WRAPPERS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_INCLASS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_RPC_WRAPPERS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_INCLASS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_46_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOXEL_API UClass* StaticClass<class UMaterialExpressionVoxelLandscapeLayerSample>();
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_SPARSE_DATA
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_RPC_WRAPPERS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_RPC_WRAPPERS_NO_PURE_DECLS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMaterialExpressionVoxelLandscapeVisibilityMask(); \
+	friend struct Z_Construct_UClass_UMaterialExpressionVoxelLandscapeVisibilityMask_Statics; \
+public: \
+	DECLARE_CLASS(UMaterialExpressionVoxelLandscapeVisibilityMask, UMaterialExpressionLandscapeVisibilityMask, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UMaterialExpressionVoxelLandscapeVisibilityMask)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_INCLASS \
+private: \
+	static void StaticRegisterNativesUMaterialExpressionVoxelLandscapeVisibilityMask(); \
+	friend struct Z_Construct_UClass_UMaterialExpressionVoxelLandscapeVisibilityMask_Statics; \
+public: \
+	DECLARE_CLASS(UMaterialExpressionVoxelLandscapeVisibilityMask, UMaterialExpressionLandscapeVisibilityMask, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UMaterialExpressionVoxelLandscapeVisibilityMask)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMaterialExpressionVoxelLandscapeVisibilityMask(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMaterialExpressionVoxelLandscapeVisibilityMask) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMaterialExpressionVoxelLandscapeVisibilityMask); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMaterialExpressionVoxelLandscapeVisibilityMask); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMaterialExpressionVoxelLandscapeVisibilityMask(UMaterialExpressionVoxelLandscapeVisibilityMask&&); \
+	NO_API UMaterialExpressionVoxelLandscapeVisibilityMask(const UMaterialExpressionVoxelLandscapeVisibilityMask&); \
+public:
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMaterialExpressionVoxelLandscapeVisibilityMask(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMaterialExpressionVoxelLandscapeVisibilityMask(UMaterialExpressionVoxelLandscapeVisibilityMask&&); \
+	NO_API UMaterialExpressionVoxelLandscapeVisibilityMask(const UMaterialExpressionVoxelLandscapeVisibilityMask&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMaterialExpressionVoxelLandscapeVisibilityMask); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMaterialExpressionVoxelLandscapeVisibilityMask); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMaterialExpressionVoxelLandscapeVisibilityMask)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_PRIVATE_PROPERTY_OFFSET
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_50_PROLOG
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_RPC_WRAPPERS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_INCLASS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_RPC_WRAPPERS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_INCLASS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h_53_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOXEL_API UClass* StaticClass<class UMaterialExpressionVoxelLandscapeVisibilityMask>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_VoxelMaterialExpressions_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

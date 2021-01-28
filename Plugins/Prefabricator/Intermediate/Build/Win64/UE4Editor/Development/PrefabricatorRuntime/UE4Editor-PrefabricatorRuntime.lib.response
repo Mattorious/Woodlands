@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PrefabricatorRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\Woodlands\Intermediate\Build\Win64\WoodlandsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\Prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorRuntime\Module.PrefabricatorRuntime.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\Prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorRuntime\Module.PrefabricatorRuntime.gen.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\Prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorRuntime\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\Woodlands\Plugins\Prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorRuntime\UE4Editor-PrefabricatorRuntime.lib"
+/INCLUDE:IMPLEMENT_MODULE_PrefabricatorRuntime

@@ -1,0 +1,390 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef VOXELGRAPH_VoxelGeneratorSamplerNodes_generated_h
+#error "VoxelGeneratorSamplerNodes.generated.h already included, missing '#pragma once' in VoxelGeneratorSamplerNodes.h"
+#endif
+#define VOXELGRAPH_VoxelGeneratorSamplerNodes_generated_h
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_SPARSE_DATA
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_RPC_WRAPPERS
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_RPC_WRAPPERS_NO_PURE_DECLS
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUVoxelNode_GeneratorSamplerBase(); \
+	friend struct Z_Construct_UClass_UVoxelNode_GeneratorSamplerBase_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelNode_GeneratorSamplerBase, UVoxelExposedNode, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/VoxelGraph"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelNode_GeneratorSamplerBase)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_INCLASS \
+private: \
+	static void StaticRegisterNativesUVoxelNode_GeneratorSamplerBase(); \
+	friend struct Z_Construct_UClass_UVoxelNode_GeneratorSamplerBase_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelNode_GeneratorSamplerBase, UVoxelExposedNode, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/VoxelGraph"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelNode_GeneratorSamplerBase)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UVoxelNode_GeneratorSamplerBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVoxelNode_GeneratorSamplerBase) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelNode_GeneratorSamplerBase); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelNode_GeneratorSamplerBase); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelNode_GeneratorSamplerBase(UVoxelNode_GeneratorSamplerBase&&); \
+	NO_API UVoxelNode_GeneratorSamplerBase(const UVoxelNode_GeneratorSamplerBase&); \
+public:
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UVoxelNode_GeneratorSamplerBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelNode_GeneratorSamplerBase(UVoxelNode_GeneratorSamplerBase&&); \
+	NO_API UVoxelNode_GeneratorSamplerBase(const UVoxelNode_GeneratorSamplerBase&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelNode_GeneratorSamplerBase); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelNode_GeneratorSamplerBase); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVoxelNode_GeneratorSamplerBase)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_PRIVATE_PROPERTY_OFFSET
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_13_PROLOG
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_RPC_WRAPPERS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_INCLASS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_INCLASS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_16_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOXELGRAPH_API UClass* StaticClass<class UVoxelNode_GeneratorSamplerBase>();
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_SPARSE_DATA
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_RPC_WRAPPERS
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_RPC_WRAPPERS_NO_PURE_DECLS
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUVoxelNode_SingleGeneratorSamplerBase(); \
+	friend struct Z_Construct_UClass_UVoxelNode_SingleGeneratorSamplerBase_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelNode_SingleGeneratorSamplerBase, UVoxelNode_GeneratorSamplerBase, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/VoxelGraph"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelNode_SingleGeneratorSamplerBase)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_INCLASS \
+private: \
+	static void StaticRegisterNativesUVoxelNode_SingleGeneratorSamplerBase(); \
+	friend struct Z_Construct_UClass_UVoxelNode_SingleGeneratorSamplerBase_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelNode_SingleGeneratorSamplerBase, UVoxelNode_GeneratorSamplerBase, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/VoxelGraph"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelNode_SingleGeneratorSamplerBase)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UVoxelNode_SingleGeneratorSamplerBase(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVoxelNode_SingleGeneratorSamplerBase) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelNode_SingleGeneratorSamplerBase); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelNode_SingleGeneratorSamplerBase); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelNode_SingleGeneratorSamplerBase(UVoxelNode_SingleGeneratorSamplerBase&&); \
+	NO_API UVoxelNode_SingleGeneratorSamplerBase(const UVoxelNode_SingleGeneratorSamplerBase&); \
+public:
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelNode_SingleGeneratorSamplerBase(UVoxelNode_SingleGeneratorSamplerBase&&); \
+	NO_API UVoxelNode_SingleGeneratorSamplerBase(const UVoxelNode_SingleGeneratorSamplerBase&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelNode_SingleGeneratorSamplerBase); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelNode_SingleGeneratorSamplerBase); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UVoxelNode_SingleGeneratorSamplerBase)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_PRIVATE_PROPERTY_OFFSET
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_23_PROLOG
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_RPC_WRAPPERS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_INCLASS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_INCLASS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_26_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOXELGRAPH_API UClass* StaticClass<class UVoxelNode_SingleGeneratorSamplerBase>();
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_SPARSE_DATA
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_RPC_WRAPPERS
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_RPC_WRAPPERS_NO_PURE_DECLS
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUVoxelNode_GetGeneratorValue(); \
+	friend struct Z_Construct_UClass_UVoxelNode_GetGeneratorValue_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelNode_GetGeneratorValue, UVoxelNode_SingleGeneratorSamplerBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/VoxelGraph"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelNode_GetGeneratorValue)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_INCLASS \
+private: \
+	static void StaticRegisterNativesUVoxelNode_GetGeneratorValue(); \
+	friend struct Z_Construct_UClass_UVoxelNode_GetGeneratorValue_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelNode_GetGeneratorValue, UVoxelNode_SingleGeneratorSamplerBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/VoxelGraph"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelNode_GetGeneratorValue)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UVoxelNode_GetGeneratorValue(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVoxelNode_GetGeneratorValue) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelNode_GetGeneratorValue); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelNode_GetGeneratorValue); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelNode_GetGeneratorValue(UVoxelNode_GetGeneratorValue&&); \
+	NO_API UVoxelNode_GetGeneratorValue(const UVoxelNode_GetGeneratorValue&); \
+public:
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelNode_GetGeneratorValue(UVoxelNode_GetGeneratorValue&&); \
+	NO_API UVoxelNode_GetGeneratorValue(const UVoxelNode_GetGeneratorValue&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelNode_GetGeneratorValue); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelNode_GetGeneratorValue); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UVoxelNode_GetGeneratorValue)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_PRIVATE_PROPERTY_OFFSET
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_41_PROLOG
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_RPC_WRAPPERS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_INCLASS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_RPC_WRAPPERS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_INCLASS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_44_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOXELGRAPH_API UClass* StaticClass<class UVoxelNode_GetGeneratorValue>();
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_SPARSE_DATA
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_RPC_WRAPPERS
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_RPC_WRAPPERS_NO_PURE_DECLS
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUVoxelNode_GetGeneratorMaterial(); \
+	friend struct Z_Construct_UClass_UVoxelNode_GetGeneratorMaterial_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelNode_GetGeneratorMaterial, UVoxelNode_SingleGeneratorSamplerBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/VoxelGraph"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelNode_GetGeneratorMaterial)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_INCLASS \
+private: \
+	static void StaticRegisterNativesUVoxelNode_GetGeneratorMaterial(); \
+	friend struct Z_Construct_UClass_UVoxelNode_GetGeneratorMaterial_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelNode_GetGeneratorMaterial, UVoxelNode_SingleGeneratorSamplerBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/VoxelGraph"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelNode_GetGeneratorMaterial)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UVoxelNode_GetGeneratorMaterial(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVoxelNode_GetGeneratorMaterial) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelNode_GetGeneratorMaterial); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelNode_GetGeneratorMaterial); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelNode_GetGeneratorMaterial(UVoxelNode_GetGeneratorMaterial&&); \
+	NO_API UVoxelNode_GetGeneratorMaterial(const UVoxelNode_GetGeneratorMaterial&); \
+public:
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelNode_GetGeneratorMaterial(UVoxelNode_GetGeneratorMaterial&&); \
+	NO_API UVoxelNode_GetGeneratorMaterial(const UVoxelNode_GetGeneratorMaterial&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelNode_GetGeneratorMaterial); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelNode_GetGeneratorMaterial); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UVoxelNode_GetGeneratorMaterial)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_PRIVATE_PROPERTY_OFFSET
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_50_PROLOG
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_RPC_WRAPPERS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_INCLASS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_RPC_WRAPPERS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_INCLASS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_53_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOXELGRAPH_API UClass* StaticClass<class UVoxelNode_GetGeneratorMaterial>();
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_SPARSE_DATA
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_RPC_WRAPPERS
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_RPC_WRAPPERS_NO_PURE_DECLS
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUVoxelNode_GetGeneratorCustomOutput(); \
+	friend struct Z_Construct_UClass_UVoxelNode_GetGeneratorCustomOutput_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelNode_GetGeneratorCustomOutput, UVoxelNode_SingleGeneratorSamplerBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/VoxelGraph"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelNode_GetGeneratorCustomOutput)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_INCLASS \
+private: \
+	static void StaticRegisterNativesUVoxelNode_GetGeneratorCustomOutput(); \
+	friend struct Z_Construct_UClass_UVoxelNode_GetGeneratorCustomOutput_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelNode_GetGeneratorCustomOutput, UVoxelNode_SingleGeneratorSamplerBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/VoxelGraph"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelNode_GetGeneratorCustomOutput)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UVoxelNode_GetGeneratorCustomOutput(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVoxelNode_GetGeneratorCustomOutput) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelNode_GetGeneratorCustomOutput); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelNode_GetGeneratorCustomOutput); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelNode_GetGeneratorCustomOutput(UVoxelNode_GetGeneratorCustomOutput&&); \
+	NO_API UVoxelNode_GetGeneratorCustomOutput(const UVoxelNode_GetGeneratorCustomOutput&); \
+public:
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelNode_GetGeneratorCustomOutput(UVoxelNode_GetGeneratorCustomOutput&&); \
+	NO_API UVoxelNode_GetGeneratorCustomOutput(const UVoxelNode_GetGeneratorCustomOutput&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelNode_GetGeneratorCustomOutput); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelNode_GetGeneratorCustomOutput); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UVoxelNode_GetGeneratorCustomOutput)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__OutputName() { return STRUCT_OFFSET(UVoxelNode_GetGeneratorCustomOutput, OutputName); }
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_59_PROLOG
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_RPC_WRAPPERS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_INCLASS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_RPC_WRAPPERS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_INCLASS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h_62_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOXELGRAPH_API UClass* StaticClass<class UVoxelNode_GetGeneratorCustomOutput>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Woodlands_Plugins_VoxelFree_Source_VoxelGraph_Public_VoxelNodes_VoxelGeneratorSamplerNodes_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

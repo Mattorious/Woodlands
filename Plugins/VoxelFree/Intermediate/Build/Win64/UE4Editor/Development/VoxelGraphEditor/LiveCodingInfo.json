@@ -1,0 +1,35 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VoxelGraphEditor.cpp.obj": [
+			"SVoxelGraphPreview.cpp.obj",
+			"SVoxelGraphPreviewViewport.cpp.obj",
+			"VoxelGraphPreview.cpp.obj",
+			"SVoxelPalette.cpp.obj",
+			"VoxelEdGraph.cpp.obj",
+			"VoxelGraphConnectionDrawingPolicy.cpp.obj",
+			"VoxelGraphEditor.cpp.obj",
+			"VoxelGraphEditorModule.cpp.obj",
+			"VoxelGraphEditorToolkit.cpp.obj",
+			"VoxelGraphEditorUtilities.cpp.obj",
+			"SVoxelGraphNode.cpp.obj",
+			"VoxelGraphNode.cpp.obj",
+			"VoxelGraphNode_Base.cpp.obj",
+			"VoxelGraphNode_Knot.cpp.obj",
+			"VoxelGraphSchema.cpp.obj",
+			"VoxelGraphShortcuts.cpp.obj"
+		],
+		"Module.VoxelGraphEditor.gen.cpp.obj": [
+			"DummyObject.gen.cpp.obj",
+			"VoxelDebugGraphUtils.gen.cpp.obj",
+			"VoxelEdGraph.gen.cpp.obj",
+			"VoxelGraphEditor.init.gen.cpp.obj",
+			"VoxelGraphNode.gen.cpp.obj",
+			"VoxelGraphNode_Base.gen.cpp.obj",
+			"VoxelGraphNode_Knot.gen.cpp.obj",
+			"VoxelGraphNode_Root.gen.cpp.obj",
+			"VoxelGraphSchema.gen.cpp.obj",
+			"VoxelGraphShortcuts.gen.cpp.obj"
+		]
+	}
+}

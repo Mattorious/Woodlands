@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VoxelNiagara.cpp.obj": [
+			"NiagaraDataInterfaceVoxelDataAsset.cpp.obj",
+			"VoxelNiagaraModule.cpp.obj"
+		],
+		"Module.VoxelNiagara.gen.cpp.obj": [
+			"NiagaraDataInterfaceVoxelDataAsset.gen.cpp.obj",
+			"VoxelNiagara.init.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ConstructionSystemEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\Woodlands\Intermediate\Build\Win64\WoodlandsEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\Prefabricator\Intermediate\Build\Win64\UE4Editor\Development\ConstructionSystemEditor\Module.ConstructionSystemEditor.cpp.obj"
+"D:\Documents\Unreal Projects\Woodlands\Plugins\Prefabricator\Intermediate\Build\Win64\UE4Editor\Development\ConstructionSystemEditor\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\Woodlands\Plugins\Prefabricator\Intermediate\Build\Win64\UE4Editor\Development\ConstructionSystemEditor\UE4Editor-ConstructionSystemEditor.lib"
+/INCLUDE:IMPLEMENT_MODULE_ConstructionSystemEditor

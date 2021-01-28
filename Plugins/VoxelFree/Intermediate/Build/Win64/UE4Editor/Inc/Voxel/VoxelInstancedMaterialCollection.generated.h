@@ -1,0 +1,250 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef VOXEL_VoxelInstancedMaterialCollection_generated_h
+#error "VoxelInstancedMaterialCollection.generated.h already included, missing '#pragma once' in VoxelInstancedMaterialCollection.h"
+#endif
+#define VOXEL_VoxelInstancedMaterialCollection_generated_h
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_50_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FVoxelInstancedMaterialCollectionLayer_Statics; \
+	VOXEL_API static class UScriptStruct* StaticStruct();
+
+
+template<> VOXEL_API UScriptStruct* StaticStruct<struct FVoxelInstancedMaterialCollectionLayer>();
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_SPARSE_DATA
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_RPC_WRAPPERS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUVoxelInstancedMaterialCollectionTemplates(); \
+	friend struct Z_Construct_UClass_UVoxelInstancedMaterialCollectionTemplates_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelInstancedMaterialCollectionTemplates, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelInstancedMaterialCollectionTemplates)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_INCLASS \
+private: \
+	static void StaticRegisterNativesUVoxelInstancedMaterialCollectionTemplates(); \
+	friend struct Z_Construct_UClass_UVoxelInstancedMaterialCollectionTemplates_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelInstancedMaterialCollectionTemplates, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelInstancedMaterialCollectionTemplates)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UVoxelInstancedMaterialCollectionTemplates(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVoxelInstancedMaterialCollectionTemplates) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelInstancedMaterialCollectionTemplates); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelInstancedMaterialCollectionTemplates); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelInstancedMaterialCollectionTemplates(UVoxelInstancedMaterialCollectionTemplates&&); \
+	NO_API UVoxelInstancedMaterialCollectionTemplates(const UVoxelInstancedMaterialCollectionTemplates&); \
+public:
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UVoxelInstancedMaterialCollectionTemplates(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelInstancedMaterialCollectionTemplates(UVoxelInstancedMaterialCollectionTemplates&&); \
+	NO_API UVoxelInstancedMaterialCollectionTemplates(const UVoxelInstancedMaterialCollectionTemplates&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelInstancedMaterialCollectionTemplates); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelInstancedMaterialCollectionTemplates); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVoxelInstancedMaterialCollectionTemplates)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_PRIVATE_PROPERTY_OFFSET
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_11_PROLOG
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_RPC_WRAPPERS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_INCLASS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_INCLASS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_14_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOXEL_API UClass* StaticClass<class UVoxelInstancedMaterialCollectionTemplates>();
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_SPARSE_DATA
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_RPC_WRAPPERS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_RPC_WRAPPERS_NO_PURE_DECLS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUVoxelInstancedMaterialCollection(); \
+	friend struct Z_Construct_UClass_UVoxelInstancedMaterialCollection_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelInstancedMaterialCollection, UVoxelCachedMaterialCollection, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelInstancedMaterialCollection)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_INCLASS \
+private: \
+	static void StaticRegisterNativesUVoxelInstancedMaterialCollection(); \
+	friend struct Z_Construct_UClass_UVoxelInstancedMaterialCollection_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelInstancedMaterialCollection, UVoxelCachedMaterialCollection, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelInstancedMaterialCollection)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UVoxelInstancedMaterialCollection(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVoxelInstancedMaterialCollection) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelInstancedMaterialCollection); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelInstancedMaterialCollection); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelInstancedMaterialCollection(UVoxelInstancedMaterialCollection&&); \
+	NO_API UVoxelInstancedMaterialCollection(const UVoxelInstancedMaterialCollection&); \
+public:
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelInstancedMaterialCollection(UVoxelInstancedMaterialCollection&&); \
+	NO_API UVoxelInstancedMaterialCollection(const UVoxelInstancedMaterialCollection&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelInstancedMaterialCollection); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelInstancedMaterialCollection); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UVoxelInstancedMaterialCollection)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_PRIVATE_PROPERTY_OFFSET
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_64_PROLOG
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_RPC_WRAPPERS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_INCLASS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_RPC_WRAPPERS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_INCLASS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_67_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOXEL_API UClass* StaticClass<class UVoxelInstancedMaterialCollection>();
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_SPARSE_DATA
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_RPC_WRAPPERS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_RPC_WRAPPERS_NO_PURE_DECLS
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUVoxelInstancedMaterialCollectionInstance(); \
+	friend struct Z_Construct_UClass_UVoxelInstancedMaterialCollectionInstance_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelInstancedMaterialCollectionInstance, UVoxelInstancedMaterialCollection, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelInstancedMaterialCollectionInstance)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_INCLASS \
+private: \
+	static void StaticRegisterNativesUVoxelInstancedMaterialCollectionInstance(); \
+	friend struct Z_Construct_UClass_UVoxelInstancedMaterialCollectionInstance_Statics; \
+public: \
+	DECLARE_CLASS(UVoxelInstancedMaterialCollectionInstance, UVoxelInstancedMaterialCollection, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/Voxel"), NO_API) \
+	DECLARE_SERIALIZER(UVoxelInstancedMaterialCollectionInstance)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UVoxelInstancedMaterialCollectionInstance(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVoxelInstancedMaterialCollectionInstance) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelInstancedMaterialCollectionInstance); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelInstancedMaterialCollectionInstance); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelInstancedMaterialCollectionInstance(UVoxelInstancedMaterialCollectionInstance&&); \
+	NO_API UVoxelInstancedMaterialCollectionInstance(const UVoxelInstancedMaterialCollectionInstance&); \
+public:
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UVoxelInstancedMaterialCollectionInstance() { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UVoxelInstancedMaterialCollectionInstance(UVoxelInstancedMaterialCollectionInstance&&); \
+	NO_API UVoxelInstancedMaterialCollectionInstance(const UVoxelInstancedMaterialCollectionInstance&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVoxelInstancedMaterialCollectionInstance); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVoxelInstancedMaterialCollectionInstance); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UVoxelInstancedMaterialCollectionInstance)
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_PRIVATE_PROPERTY_OFFSET
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_106_PROLOG
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_RPC_WRAPPERS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_INCLASS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_PRIVATE_PROPERTY_OFFSET \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_SPARSE_DATA \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_RPC_WRAPPERS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_INCLASS_NO_PURE_DECLS \
+	Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h_109_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOXEL_API UClass* StaticClass<class UVoxelInstancedMaterialCollectionInstance>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Woodlands_Plugins_VoxelFree_Source_Voxel_Public_VoxelRender_MaterialCollections_VoxelInstancedMaterialCollection_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
