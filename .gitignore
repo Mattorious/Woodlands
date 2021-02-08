@@ -7,3 +7,4 @@ Packaging/*
 .vs/*
 *.exe
 Binaries/Win64/Woodlands.exe
+Intermediate/CachedAssetRegistry.bin
