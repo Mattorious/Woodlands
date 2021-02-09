@@ -10,4 +10,4 @@ Cloning instructions
 
 NOTE: Once github desktop starts cloning the VoxelFree plugin (the one that takes literally forever), you can start working in UE4 without any troubles. Just open UE4 and look for your cloned repo.
 
-\\hollywood\SP2021-GAM4492-01$
+ \\hollywood\SP2021-GAM4492-01$
