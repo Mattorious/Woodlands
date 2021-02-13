@@ -8,6 +8,5 @@ Packaging/*
 *.exe
 Binaries/Win64/Woodlands.exe
 Intermediate/CachedAssetRegistry.bin
-Intermediate/CachedAssetRegistry.bin
 Saved/AutoScreenshot.png
 Saved/Logs/Woodlands.log
