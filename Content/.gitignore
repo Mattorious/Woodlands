@@ -1,0 +1,13 @@
+DerivedDataCache/*
+Saved/*
+Intermediate/*
+WindowsNoEditor/*
+*.pdb
+Packaging/*
+.vs/*
+*.exe
+Binaries/Win64/Woodlands.exe
+Intermediate/CachedAssetRegistry.bin
+Saved/AutoScreenshot.png
+Saved/Logs/Woodlands.log
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
